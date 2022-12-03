@@ -1,0 +1,1001 @@
+day,campaign,clicks,conversions,cost,convrate,ctr,avgcpc
+2020-07-29 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],10,0,127730000,0,0.16,12773000
+2020-07-29 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],8,0,27880000,0,0.1,3485000
+2020-07-29 0:00:00,PS-Generic-Competitor-Birch Living [pros],3,0,23910000,0,2.07,7970000
+2020-07-29 0:00:00,PS-Brand-Sample-Compare To [brand],4,0,34310000,0,23.53,8577500
+2020-07-29 0:00:00,PS-Generic-Competitor-Avocado [pros],23,0,199680000,0,1.78,8681739
+2020-07-29 0:00:00,PS-Generic-Non Toxic (ATC) [pros],2,2,29760000,100,14.29,14880000
+2020-07-29 0:00:00,GMA-Retargeting [rt],4,0,86921,0,8.16,21730
+2020-07-29 0:00:00,PS-Generic-Natural Product [ATC] [pros],4,0,39100000,0,2.72,9775000
+2020-07-29 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],0,0,0,0,0,0
+2020-07-29 0:00:00,Shopping-Generic-Showcase-All Products [pros],1,0,7110000,0,1.56,7110000
+2020-07-29 0:00:00,DAC-Generic-Custom Intent [pros],1,0,490000,0,2.63,490000
+2020-07-29 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],2,0,4570000,0,2.99,2285000
+2020-07-29 0:00:00,PS-Brand-Sample-Product Sizes [brand],3,0,31830000,0,21.43,10610000
+2020-07-29 0:00:00,PS-Generic-Luxury Product [pros],12,0,154390000,0,3.31,12865833
+2020-07-29 0:00:00,PS-Generic-Toxic Free [pros],2,0,8370000,0,9.09,4185000
+2020-07-29 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-29 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,1,16440000,50,7.41,8220000
+2020-07-29 0:00:00,PS-Brand-Sample-Top Keywords [brand],100,3,519590000,3,38.46,5195900
+2020-07-29 0:00:00,PS-Brand-Sample-Reviews [brand],5,1,64650000,20,8.62,12930000
+2020-07-28 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-28 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-28 0:00:00,PS-Generic-Non Toxic (ATC) [pros],3,0,27380000,0,18.75,9126667
+2020-07-28 0:00:00,PS-Brand-Sample-Compare To [brand],3,0,24070000,0,6.52,8023333
+2020-07-28 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],19,19,205730000,0,0.12,10827895
+2020-07-28 0:00:00,PS-Generic-Latex Product [pros],0,0,0,0,0,0
+2020-07-28 0:00:00,PS-Brand-Sample-Reviews [brand],19,1,263490000,5.26,17.27,13867895
+2020-07-28 0:00:00,PS-Generic-Competitor-Avocado [pros],41,1,295210000,2.44,1.89,7200244
+2020-07-28 0:00:00,PS-Generic-Green Product [pros],0,0,0,0,0,0
+2020-07-28 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],3,0,20830000,0,0.31,6943333
+2020-07-28 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],10,0,95280000,0,0.09,9528000
+2020-07-28 0:00:00,PS-Brand-Sample-Top Keywords [brand],167,4.4,1007120000,2.63,32.18,6030659
+2020-07-28 0:00:00,PS-Generic-Competitor-Birch Living [pros],8,0,75420000,0,2.65,9427500
+2020-07-28 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-28 0:00:00,GMA-Retargeting [rt],9,0,3485296,0,6.98,387255
+2020-07-28 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],3,0,6000000,0,3.23,2000000
+2020-07-28 0:00:00,PS-Generic-Toxic Free [pros],2,0,15490000,0,5.41,7745000
+2020-07-28 0:00:00,PS-Generic-Hybrid Product [pros],0,0,0,0,0,0
+2020-07-28 0:00:00,DAC-Generic-Custom Intent [pros],39,0,35610000,0,0.96,913077
+2020-07-28 0:00:00,PS-Generic-Organic Product Reviews [pros],0,0,0,0,0,0
+2020-07-28 0:00:00,DAC-Generic-Affinity/InMarket [pros],0,0,0,0,0,0
+2020-07-28 0:00:00,PS-Generic-Chemical Free [ATC] [pros],1,0,4430000,0,2.44,4430000
+2020-07-28 0:00:00,PS-Generic-Natural Product [ATC] [pros],8,0,48480000,0,3.16,6060000
+2020-07-28 0:00:00,PS-Generic-Luxury Product [pros],15,0,184060000,0,2.14,12270667
+2020-07-28 0:00:00,PS-Generic-Organic Product [pros],0,0,0,0,0,0
+2020-07-28 0:00:00,PS-Brand-Sample-Product Sizes [brand],5,0,58240000,0,26.32,11648000
+2020-07-27 0:00:00,DAC-Generic-Affinity/InMarket [pros],20,0,3910000,0,1.37,195500
+2020-07-27 0:00:00,PS-Generic-Green Product [pros],0,0,0,0,0,0
+2020-07-27 0:00:00,PS-Generic-Organic Product Reviews [pros],0,0,0,0,0,0
+2020-07-27 0:00:00,PS-Generic-Natural Product [ATC] [pros],6,0,52500000,0,3.7,8750000
+2020-07-27 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-27 0:00:00,Shopping-Generic-Showcase-All Products [pros],1,0,1260000,0,1.18,1260000
+2020-07-27 0:00:00,GMA-Retargeting [rt],35,0,3839330,0,18.42,109695
+2020-07-27 0:00:00,PS-Brand-Sample-Product Sizes [brand],2,0,19880000,0,7.14,9940000
+2020-07-27 0:00:00,PS-Generic-Chemical Free [ATC] [pros],5,0,17770000,0,11.9,3554000
+2020-07-27 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],4,0,28210000,0,0.6,7052500
+2020-07-27 0:00:00,PS-Generic-Competitor-Avocado [pros],41,0,282380000,0,2.06,6887317
+2020-07-27 0:00:00,PS-Generic-Hybrid Product [pros],14,0,104120000,0,4.15,7437143
+2020-07-27 0:00:00,GMA-In-Market/Affinity [pros],3978,0,350233100,0,35.33,88043
+2020-07-27 0:00:00,PS-Brand-Sample-Compare To [brand],5,0,41730000,0,7.94,8346000
+2020-07-27 0:00:00,PS-Brand-Sample-Top Keywords [brand],181,4.1,1212280000,2.27,37.01,6697680
+2020-07-27 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],18,0,135780000,0,0.15,7543333
+2020-07-27 0:00:00,PS-Generic-Non Toxic (ATC) [pros],8,0,126380000,0,21.05,15797500
+2020-07-27 0:00:00,PS-Brand-Sample-Reviews [brand],17,1,239880000,5.88,16.35,14110588
+2020-07-27 0:00:00,PS-Generic-Luxury Product [pros],25,0,189220000,0,3.17,7568800
+2020-07-27 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],6,0,15770000,0,0.07,2628333
+2020-07-27 0:00:00,PS-Generic-Coil Productes [pros],0,0,0,0,0,0
+2020-07-27 0:00:00,PS-Generic-Organic Product [pros],0,0,0,0,0,0
+2020-07-27 0:00:00,PS-Generic-Latex Product [pros],3,0,19120000,0,6.38,6373333
+2020-07-27 0:00:00,DAC-Generic-Custom Intent [pros],53,0,43700000,0,1.35,824528
+2020-07-27 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-27 0:00:00,PS-Generic-Competitor-Birch Living [pros],11,0,91820000,0,3.28,8347273
+2020-07-27 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],2,0,11150000,0,2.08,5575000
+2020-07-26 0:00:00,PS-Generic-Toxic Free [pros],1,0,4240000,0,8.33,4240000
+2020-07-26 0:00:00,PS-Generic-Green Product [pros],30,0,206290000,0,7.83,6876333
+2020-07-26 0:00:00,PS-Generic-Chemical Free [ATC] [pros],4,1,9420000,25,6.78,2355000
+2020-07-26 0:00:00,PS-Generic-Competitor-Avocado [pros],47,0,385560000,0,2.3,8203404
+2020-07-26 0:00:00,PS-Brand-Sample-Product Sizes [brand],4,0,33150000,0,15.38,8287500
+2020-07-26 0:00:00,GMA-Retargeting [rt],30,0,3071967,0,15.38,102399
+2020-07-26 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],8,0,98030000,0,0.1,12253750
+2020-07-26 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],6,0,48150000,0,6.25,8025000
+2020-07-26 0:00:00,PS-Generic-Competitor-Birch Living [pros],11,2,88500000,18.18,2.96,8045455
+2020-07-26 0:00:00,PS-Brand-Sample-Reviews [brand],22,2.2,318730000,10,17.32,14487727
+2020-07-26 0:00:00,PS-Generic-Natural Product [ATC] [pros],5,0,36630000,0,3.5,7326000
+2020-07-26 0:00:00,PS-Generic-Latex Product [pros],54,0,494820000,0,6.12,9163333
+2020-07-26 0:00:00,PS-Generic-Non Toxic (ATC) [pros],40,4.3,486150000,10.75,9.48,12153750
+2020-07-26 0:00:00,PS-Generic-Hybrid Product [pros],234,1,1759700000,0.43,5.8,7520085
+2020-07-26 0:00:00,DAC-Retargeting [rt],0,0,0,0,0,0
+2020-07-26 0:00:00,PS-Generic-Organic Product [pros],0,0,0,0,0,0
+2020-07-26 0:00:00,DAC-Generic-Affinity/InMarket [pros],11649,0,419520000,0,1.25,36013
+2020-07-26 0:00:00,DAC-Generic-Custom Intent [pros],107,0,42430000,0,0.57,396542
+2020-07-26 0:00:00,PS-Generic-Organic Product Reviews [pros],7,1,60480000,14.29,11.86,8640000
+2020-07-26 0:00:00,GMA-In-Market/Affinity [pros],6648,0,549129762,0,17.2,82601
+2020-07-26 0:00:00,PS-Generic-Luxury Product [pros],23,0,208740000,0,2.81,9075652
+2020-07-26 0:00:00,PS-Brand-Sample-Top Keywords [brand],131,8.6,923480000,6.56,27.07,7049466
+2020-07-26 0:00:00,PS-Generic-Coil Productes [pros],19,0,185780000,0,5.83,9777895
+2020-07-26 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-26 0:00:00,PS-Brand-Sample-Compare To [brand],4,0.6,31940000,15,7.55,7985000
+2020-07-26 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-26 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],14,0,131070000,0,0.12,9362143
+2020-07-26 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],4,0.5,26760000,12.5,0.54,6690000
+2020-07-25 0:00:00,PS-Generic-Toxic Free [pros],1,0,3260000,0,12.5,3260000
+2020-07-25 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,8760000,0,4.26,4380000
+2020-07-25 0:00:00,PS-Brand-Sample-Top Keywords [brand],154,8,913570000,5.19,33.55,5932273
+2020-07-25 0:00:00,PS-Brand-Sample-Compare To [brand],5,0.5,43210000,10,16.13,8642000
+2020-07-25 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],1,0,310000,0,0.13,310000
+2020-07-25 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],12,0,39580000,0,0.17,3298333
+2020-07-25 0:00:00,GMA-Retargeting [rt],21,0,947931,0,15.22,45140
+2020-07-25 0:00:00,PS-Generic-Natural Product [ATC] [pros],3,0.8,15610000,26.67,1.85,5203333
+2020-07-25 0:00:00,PS-Brand-Sample-Reviews [brand],13,1.5,178830000,11.54,16.25,13756154
+2020-07-25 0:00:00,DAC-Generic-Affinity/InMarket [pros],6986,0,291890000,0,1.29,41782
+2020-07-25 0:00:00,PS-Generic-Non Toxic (ATC) [pros],30,3.6,330620000,12,9.4,11020667
+2020-07-25 0:00:00,PS-Generic-Luxury Product [pros],20,0,167620000,0,2.63,8381000
+2020-07-25 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],2,0,12660000,0,2.02,6330000
+2020-07-25 0:00:00,PS-Generic-Competitor-Avocado [pros],31,3,276250000,9.68,1.95,8911290
+2020-07-25 0:00:00,PS-Generic-Hybrid Product [pros],63,1,181700000,1.59,3.95,2884127
+2020-07-25 0:00:00,Shopping-Generic-Showcase-All Products [pros],1,0,950000,0,1.3,950000
+2020-07-25 0:00:00,PS-Generic-Organic Product [pros],0,0,0,0,0,0
+2020-07-25 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],7,0,47380000,0,0.07,6768571
+2020-07-25 0:00:00,PS-Generic-Latex Product [pros],47,0,500220000,0,6.44,10642979
+2020-07-25 0:00:00,PS-Generic-Organic Product Reviews [pros],1,0,9300000,0,2.5,9300000
+2020-07-25 0:00:00,PS-Generic-Competitor-Birch Living [pros],12,0,97910000,0,3.83,8159167
+2020-07-25 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-25 0:00:00,PS-Generic-Coil Productes [pros],15,0,84910000,0,5.02,5660667
+2020-07-25 0:00:00,PS-Brand-Sample-Product Sizes [brand],8,0,68860000,0,29.63,8607500
+2020-07-25 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-25 0:00:00,PS-Generic-Green Product [pros],21,0,142300000,0,5.6,6776190
+2020-07-25 0:00:00,DAC-Generic-Custom Intent [pros],788,0,246610000,0,0.71,312957
+2020-07-25 0:00:00,GMA-In-Market/Affinity [pros],1079,0,44229100,0,27.15,40991
+2020-07-24 0:00:00,GMA-Retargeting [rt],41,0,2567840,0,20.4,62630
+2020-07-24 0:00:00,PS-Generic-Hybrid Product [pros],82,1,436390000,1.22,3.4,5321829
+2020-07-24 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-24 0:00:00,PS-Generic-Organic Product [pros],35,1,332910000,2.86,3.15,9511714
+2020-07-24 0:00:00,PS-Generic-Competitor-Birch Living [pros],11,0,94720000,0,4.35,8610909
+2020-07-24 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],0,0,0,0,0,0
+2020-07-24 0:00:00,GMA-In-Market/Affinity [pros],147,0,2932669,0,33.64,19950
+2020-07-24 0:00:00,PS-Generic-Competitor-Avocado [pros],21,0,155150000,0,1.34,7388095
+2020-07-24 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],5,0.5,67270000,10,0.73,13454000
+2020-07-24 0:00:00,PS-Generic-Luxury Product [pros],20,0,176150000,0,2.77,8807500
+2020-07-24 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],6,0,28710000,0,0.11,4785000
+2020-07-24 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],1,0,6910000,0,1.54,6910000
+2020-07-24 0:00:00,PS-Generic-Organic Product Reviews [pros],0,0,0,0,0,0
+2020-07-24 0:00:00,DAC-Retargeting [rt],1,0,240000,0,2.56,240000
+2020-07-24 0:00:00,PS-Generic-Natural Product [ATC] [pros],5,1,46400000,20,3.55,9280000
+2020-07-24 0:00:00,PS-Generic-Latex Product [pros],41,0,505570000,0,5.41,12330976
+2020-07-24 0:00:00,GMA-Custom Intent [pros],9947,0,3424259779,0,11.86,344251
+2020-07-24 0:00:00,DAC-Generic-Custom Intent [pros],749,0,203840000,0,0.79,272150
+2020-07-24 0:00:00,DAC-Generic-Affinity/InMarket [pros],7693,0,316090000,0,1.26,41088
+2020-07-24 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-24 0:00:00,PS-Brand-Sample-Product Sizes [brand],2,0,25420000,0,10,12710000
+2020-07-24 0:00:00,PS-Generic-Green Product [pros],31,0,211150000,0,9.72,6811290
+2020-07-24 0:00:00,PS-Brand-Sample-Reviews [brand],12,0,159930000,0,12.24,13327500
+2020-07-24 0:00:00,PS-Generic-Dunlop Latex [pros],3,0,31930000,0,10.71,10643333
+2020-07-24 0:00:00,PS-Generic-Toxic Free [pros],1,0,5790000,0,9.09,5790000
+2020-07-24 0:00:00,PS-Brand-Sample-Top Keywords [brand],125,7.3,684220000,5.84,26.82,5473760
+2020-07-24 0:00:00,PS-Generic-Coil Productes [pros],11,0,112040000,0,4.3,10185455
+2020-07-24 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,5010000,0,7.14,2505000
+2020-07-24 0:00:00,PS-Brand-Sample-Compare To [brand],4,0,30590000,0,9.3,7647500
+2020-07-24 0:00:00,PS-Generic-Organic Product ZZ [pros],0,0,0,0,0,0
+2020-07-24 0:00:00,PS-Generic-Non Toxic (ATC) [pros],16,4,168170000,25,4.75,10510625
+2020-07-23 0:00:00,PS-Generic-Organic Product [pros],75,0,891820000,0,3.24,11890933
+2020-07-23 0:00:00,PS-Brand-Sample-Top Keywords [brand],138,5.4,792650000,3.91,36.22,5743841
+2020-07-23 0:00:00,GMA-Retargeting [rt],22,0,1212022,0,13.66,55092
+2020-07-23 0:00:00,PS-Brand-Sample-Product Sizes [brand],3,0,20150000,0,14.29,6716667
+2020-07-23 0:00:00,GMA-In-Market/Affinity [pros],36,0,475033,0,30.25,13195
+2020-07-23 0:00:00,GMA-Custom Intent [pros],6261,0,1486123354,0,16.37,237362
+2020-07-23 0:00:00,PS-Generic-Organic Product Reviews [pros],0,0,0,0,0,0
+2020-07-23 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],7,1,27450000,14.29,0.08,3921429
+2020-07-23 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],1,0,830000,0,0.02,830000
+2020-07-23 0:00:00,PS-Generic-Competitor-Naturepedic [pros],4,0,87030000,0,2.15,21757500
+2020-07-23 0:00:00,PS-Generic-Non Toxic (ATC) [pros],29,0,436520000,0,10.62,15052414
+2020-07-23 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-23 0:00:00,DAC-Retargeting [rt],1,0,1040000,0,0.6,1040000
+2020-07-23 0:00:00,PS-Generic-Natural Product [ATC] [pros],1,0,4600000,0,0.83,4600000
+2020-07-23 0:00:00,DAC-Generic-Custom Intent [pros],49,0,31040000,0,0.67,633469
+2020-07-23 0:00:00,PS-Generic-Chemical Free [ATC] [pros],6,0,29820000,0,12.24,4970000
+2020-07-23 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-23 0:00:00,PS-Brand-Sample-Compare To [brand],3,0.2,22170000,6.67,5.08,7390000
+2020-07-23 0:00:00,PS-Generic-Competitor-Avocado [pros],37,0.5,280310000,1.35,2.02,7575946
+2020-07-23 0:00:00,PS-Brand-Sample-Reviews [brand],15,3,180250000,20,13.39,12016667
+2020-07-23 0:00:00,PS-Generic-Dunlop Latex [pros],2,0,19380000,0,3.85,9690000
+2020-07-23 0:00:00,PS-Generic-Coil Productes [pros],17,0,170690000,0,5.26,10040588
+2020-07-23 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],3,0,12350000,0,4.69,4116667
+2020-07-23 0:00:00,PS-Generic-Toxic Free [pros],4,0,26720000,0,28.57,6680000
+2020-07-23 0:00:00,PS-Generic-Luxury Product [pros],30,0,325060000,0,2.96,10835333
+2020-07-23 0:00:00,DAC-Generic-Affinity/InMarket [pros],7574,0,303450000,0,1.23,40065
+2020-07-23 0:00:00,PS-Generic-Green Product [pros],18,0,111450000,0,6.36,6191667
+2020-07-23 0:00:00,PS-Generic-Competitor-Birch Living [pros],11,1,94230000,9.09,3.78,8566364
+2020-07-23 0:00:00,PS-Generic-Latex Product [pros],84,0,519510000,0,5.6,6184643
+2020-07-23 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],5,0.5,23280000,10,0.77,4656000
+2020-07-23 0:00:00,PS-Generic-Hybrid Product [pros],88,2,857370000,2.27,2.13,9742841
+2020-07-22 0:00:00,GMA-In-Market/Affinity [pros],0,0,0,0,0,0
+2020-07-22 0:00:00,PS-Generic-Green Product [pros],20,0,132370000,0,6.25,6618500
+2020-07-22 0:00:00,PS-Brand-Sample-Reviews [brand],22,0,298130000,0,19.3,13551364
+2020-07-22 0:00:00,PS-Generic-Competitor-Avocado [pros],41,0.6,322630000,1.46,2.22,7869024
+2020-07-22 0:00:00,PS-Generic-Chemical Free [ATC] [pros],3,0,13560000,0,8.57,4520000
+2020-07-22 0:00:00,PS-Generic-Organic Product Reviews [pros],0,0,0,0,0,0
+2020-07-22 0:00:00,PS-Generic-Competitor-Naturepedic [pros],10,0,272850000,0,1.73,27285000
+2020-07-22 0:00:00,PS-Generic-Luxury Product [pros],34,0,373440000,0,2.16,10983529
+2020-07-22 0:00:00,Shopping-Generic-Showcase-All Products [pros],1,0,6910000,0,2.13,6910000
+2020-07-22 0:00:00,PS-Generic-Competitor-Birch Living [pros],6,0,43370000,0,1.99,7228333
+2020-07-22 0:00:00,PS-Generic-Natural Product [ATC] [pros],3,0,13400000,0,1.97,4466667
+2020-07-22 0:00:00,PS-Brand-Sample-Product Sizes [brand],3,0,43280000,0,17.65,14426667
+2020-07-22 0:00:00,PS-Generic-Organic Product [pros],72,0,867450000,0,4.33,12047917
+2020-07-22 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],1,0,6990000,0,0.18,6990000
+2020-07-22 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],7,0,48930000,0,0.14,6990000
+2020-07-22 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-22 0:00:00,DAC-Generic-Affinity/InMarket [pros],7011,0,331872048,0,1.26,47336
+2020-07-22 0:00:00,PS-Generic-Hybrid Product [pros],52,2,447110000,3.85,1.84,8598269
+2020-07-22 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-07-22 0:00:00,PS-Generic-Non Toxic (ATC) [pros],32,7,412950000,21.88,11.94,12904688
+2020-07-22 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-22 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],5,0,29360000,0,5.32,5872000
+2020-07-22 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-22 0:00:00,PS-Generic-Coil Productes [pros],10,0,110200000,0,3.64,11020000
+2020-07-22 0:00:00,DAC-Retargeting [rt],1,0,837007,0,0.7,837007
+2020-07-22 0:00:00,PS-Generic-Dunlop Latex [pros],4,0,63240000,0,6.56,15810000
+2020-07-22 0:00:00,PS-Brand-Sample-Top Keywords [brand],127,4.7,587390000,3.7,30.38,4625118
+2020-07-22 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],6,0,13090000,0,0.08,2181667
+2020-07-22 0:00:00,PS-Brand-Sample-Compare To [brand],4,0,33550000,0,9.3,8387500
+2020-07-22 0:00:00,GMA-Retargeting [rt],35,0,7211052,0,11.33,206030
+2020-07-22 0:00:00,DAC-Generic-Custom Intent [pros],13,0,9920000,0,1.05,763077
+2020-07-22 0:00:00,PS-Generic-Latex Product [pros],90,1,532790000,1.11,6.65,5919889
+2020-07-21 0:00:00,PS-Generic-Green Product [pros],21,0,132350000,0,7.05,6302381
+2020-07-21 0:00:00,PS-Brand-Sample-Reviews [brand],23,1.2,299490000,5.22,14.94,13021304
+2020-07-21 0:00:00,GMA-In-Market/Affinity [pros],1,0,10010,0,5,10010
+2020-07-21 0:00:00,PS-Generic-Hybrid Product [pros],65,0,487530000,0,2.18,7500462
+2020-07-21 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],12,0,68690000,0,0.13,5724167
+2020-07-21 0:00:00,PS-Brand-Sample-Product Sizes [brand],6,0.4,78010000,6.67,35.29,13001667
+2020-07-21 0:00:00,PS-Generic-Organic Product [pros],76,0.5,968340000,0.66,3.52,12741316
+2020-07-21 0:00:00,PS-Generic-Competitor-Avocado [pros],29,1,248500000,3.45,1.51,8568966
+2020-07-21 0:00:00,PS-Generic-Latex Product [pros],89,0,568720000,0,6.18,6390112
+2020-07-21 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-07-21 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-21 0:00:00,PS-Generic-Natural Product [ATC] [pros],0,0,0,0,0,0
+2020-07-21 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-21 0:00:00,PS-Brand-Sample-Top Keywords [brand],150,4,808430000,2.67,31.58,5389533
+2020-07-21 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-21 0:00:00,PS-Generic-Coil Productes [pros],9,0,72930000,0,3.47,8103333
+2020-07-21 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],10,0,45780000,0,0.18,4578000
+2020-07-21 0:00:00,PS-Generic-Competitor-Birch Living [pros],10,0,96610000,0,2.84,9661000
+2020-07-21 0:00:00,PS-Generic-Dunlop Latex [pros],3,0,39180000,0,7.32,13060000
+2020-07-21 0:00:00,GMA-Custom Intent [pros],2,0,49441,0,7.41,24721
+2020-07-21 0:00:00,DAC-Generic-Affinity/InMarket [pros],12133,0,502570000,0,1.24,41422
+2020-07-21 0:00:00,PS-Generic-Competitor-Naturepedic [pros],9,0,149130000,0,1.48,16570000
+2020-07-21 0:00:00,GMA-Retargeting [rt],70,0,5154286,0,15.8,73633
+2020-07-21 0:00:00,DAC-Retargeting [rt],0,0,15941,0,0,0
+2020-07-21 0:00:00,PS-Generic-Luxury Product [pros],42,3,365330000,7.14,2.44,8698333
+2020-07-21 0:00:00,DAC-Generic-Custom Intent [pros],13,0,10310000,0,2.78,793077
+2020-07-21 0:00:00,PS-Generic-Organic Product Reviews [pros],4,0,28410000,0,12.12,7102500
+2020-07-21 0:00:00,PS-Brand-Sample-Compare To [brand],3,0,25100000,0,7.32,8366667
+2020-07-21 0:00:00,PS-Generic-Chemical Free [ATC] [pros],4,0,10890000,0,9.76,2722500
+2020-07-21 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],3,0,14540000,0,0.48,4846667
+2020-07-21 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],3,1,14950000,33.33,4.76,4983333
+2020-07-21 0:00:00,PS-Generic-Non Toxic (ATC) [pros],25,0.4,323220000,1.6,9.33,12928800
+2020-07-20 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],5,0,34530000,0,0.82,6906000
+2020-07-20 0:00:00,PS-Generic-Green Product [pros],27,0,191950000,0,7.48,7109259
+2020-07-20 0:00:00,DAC-Retargeting [rt],3,0,3232686,0,1.52,1077562
+2020-07-20 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],18,0,132950000,0,0.14,7386111
+2020-07-20 0:00:00,PS-Generic-Toxic Free [pros],2,0,10580000,0,15.38,5290000
+2020-07-20 0:00:00,DAC-Generic-Affinity/InMarket [pros],11393,0,2155890000,0,1.02,189229
+2020-07-20 0:00:00,GMA-In-Market/Affinity [pros],0,0,0,0,0,0
+2020-07-20 0:00:00,PS-Generic-Dunlop Latex [pros],0,0,0,0,0,0
+2020-07-20 0:00:00,PS-Generic-Luxury Product [pros],38,0,380000000,0,2.85,10000000
+2020-07-20 0:00:00,PS-Brand-Sample-Reviews [brand],22,4.57,307570000,20.76,14.86,13980455
+2020-07-20 0:00:00,PS-Generic-Latex Product [pros],79,0,462850000,0,4.47,5858861
+2020-07-20 0:00:00,PS-Generic-Competitor-Naturepedic [pros],2,0,70660000,0,2.35,35330000
+2020-07-20 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],15,1,60110000,6.67,0.24,4007333
+2020-07-20 0:00:00,PS-Brand-Sample-Top Keywords [brand],164,7.8,1141440000,4.76,34.45,6960000
+2020-07-20 0:00:00,PS-Brand-Sample-Product Sizes [brand],4,0,27910000,0,23.53,6977500
+2020-07-20 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-20 0:00:00,PS-Generic-Natural Product [ATC] [pros],11,0.1,80910000,0.91,6.21,7355455
+2020-07-20 0:00:00,GMA-Retargeting [rt],59,0,5270725,0,9.05,89334
+2020-07-20 0:00:00,PS-Generic-Hybrid Product [pros],34,1,467360000,2.94,3.57,13745882
+2020-07-20 0:00:00,PS-Generic-Organic Product [pros],82,0.1,927110000,0.12,4.04,11306220
+2020-07-20 0:00:00,PS-Generic-Competitor-Birch Living [pros],4,0,33380000,0,1.21,8345000
+2020-07-20 0:00:00,PS-Generic-Competitor-Avocado [pros],48,1.5,424190000,3.12,2.1,8837292
+2020-07-20 0:00:00,GMA-Custom Intent [pros],1,0,108764,0,4,108764
+2020-07-20 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,7540000,0,4.88,3770000
+2020-07-20 0:00:00,PS-Generic-Organic Product Reviews [pros],6,0,56110000,0,10.91,9351667
+2020-07-20 0:00:00,PS-Brand-Sample-Compare To [brand],5,0,40330000,0,6.25,8066000
+2020-07-20 0:00:00,PS-Generic-Non Toxic (ATC) [pros],19,0,177980000,0,6.44,9367368
+2020-07-20 0:00:00,DAC-Generic-Custom Intent [pros],327,0,830242287,0,0.61,2538967
+2020-07-20 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],4,0.1,26180000,2.5,6.67,6545000
+2020-07-20 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-20 0:00:00,PS-Generic-Coil Productes [pros],1,0,2190000,0,1.32,2190000
+2020-07-19 0:00:00,PS-Generic-Organic Product [pros],70,0.5,618140000,0.71,3.97,8830571
+2020-07-19 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],8,0,61120000,0,0.1,7640000
+2020-07-19 0:00:00,PS-Generic-Competitor-Birch Living [pros],7,0,62240000,0,2.14,8891429
+2020-07-19 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],1,0,5410000,0,7.14,5410000
+2020-07-19 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],19,0,124630000,0,0.12,6559474
+2020-07-19 0:00:00,PS-Brand-Sample-Product Sizes [brand],7,0.4,64860000,5.71,43.75,9265714
+2020-07-19 0:00:00,PS-Brand-Sample-Compare To [brand],5,0.1,42640000,2,6.85,8528000
+2020-07-19 0:00:00,GMA-Retargeting [rt],78,1,8054887,1.28,9.43,103268
+2020-07-19 0:00:00,PS-Brand-Sample-Reviews [brand],33,6.9,467610000,20.91,19.76,14170000
+2020-07-19 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-19 0:00:00,PS-Brand-Sample-Top Keywords [brand],146,7.7,1080670000,5.27,32.16,7401849
+2020-07-19 0:00:00,PS-Generic-Competitor-Avocado [pros],46,0,353840000,0,1.91,7692174
+2020-07-19 0:00:00,PS-Generic-Latex Product [pros],89,1,544740000,1.12,4.63,6120674
+2020-07-19 0:00:00,DAC-Generic-Affinity/InMarket [pros],48,0,95391777,0,1.13,1987329
+2020-07-19 0:00:00,DAC-Generic-Custom Intent [pros],63,2,259675638,0.16,0.62,4121836
+2020-07-19 0:00:00,PS-Generic-Non Toxic (ATC) [pros],21,4.5,232640000,21.43,5.11,11078095
+2020-07-19 0:00:00,PS-Generic-Natural Product [ATC] [pros],2,0,13540000,0,1.2,6770000
+2020-07-19 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],1,0,2480000,0,1.12,2480000
+2020-07-19 0:00:00,PS-Generic-Green Product [pros],26,0,169930000,0,6,6535769
+2020-07-19 0:00:00,GMA-Custom Intent [pros],1,0,34479,0,8.33,34479
+2020-07-19 0:00:00,GMA-In-Market/Affinity [pros],0,0,0,0,0,0
+2020-07-19 0:00:00,DAC-Retargeting [rt],6,0,19744730,0,1.18,3290788
+2020-07-19 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],5,0,23590000,0,1.02,4718000
+2020-07-19 0:00:00,PS-Generic-Toxic Free [pros],1,0,7350000,0,5.56,7350000
+2020-07-19 0:00:00,PS-Generic-Chemical Free [ATC] [pros],1,0,10900000,0,2.22,10900000
+2020-07-19 0:00:00,PS-Generic-Organic Product Reviews [pros],5,0,38800000,0,8.2,7760000
+2020-07-18 0:00:00,PS-Generic-Competitor-Avocado [pros],41,2,267570000,4.88,1.85,6526098
+2020-07-18 0:00:00,PS-Brand-Sample-Product Sizes [brand],3,0,27040000,0,20,9013333
+2020-07-18 0:00:00,PS-Generic-Green Product [pros],19,0,134370000,0,4.79,7072105
+2020-07-18 0:00:00,DAC-Generic-Affinity/InMarket [pros],438,2,1160448579,0.05,1.1,2649426
+2020-07-18 0:00:00,PS-Generic-Competitor-Birch Living [pros],19,0.5,172180000,2.63,5.81,9062105
+2020-07-18 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-18 0:00:00,PS-Generic-Natural Product [ATC] [pros],4,0,20150000,0,1.67,5037500
+2020-07-18 0:00:00,PS-Generic-Non Toxic (ATC) [pros],24,4.57,247540000,19.03,8.28,10314167
+2020-07-18 0:00:00,DAC-Retargeting [rt],219,0,980181799,0,1.14,4475716
+2020-07-18 0:00:00,PS-Brand-Sample-Top Keywords [brand],133,10.1,943060000,7.59,31.67,7090677
+2020-07-18 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],0,0,0,0,0,0
+2020-07-18 0:00:00,PS-Brand-Sample-Compare To [brand],4,0,34830000,0,9.09,8707500
+2020-07-18 0:00:00,PS-Generic-Organic Product [pros],76,0,608950000,0,3.35,8012500
+2020-07-18 0:00:00,PS-Brand-Sample-Reviews [brand],15,2,212020000,13.33,11.11,14134667
+2020-07-18 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],3,0,16000000,0,0.66,5333333
+2020-07-18 0:00:00,DAC-Generic-Custom Intent [pros],146,0,449177693,0,0.64,3076560
+2020-07-18 0:00:00,PS-Generic-Organic Product Reviews [pros],2,0,18820000,0,3.08,9410000
+2020-07-18 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],6,0,77340000,0,0.05,12890000
+2020-07-18 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],9,0,31650000,0,0.12,3516667
+2020-07-18 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-18 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-18 0:00:00,GMA-Retargeting [rt],29052,0,1190394621,0,43.16,40975
+2020-07-18 0:00:00,GMA-In-Market/Affinity [pros],3,0,37982,0,30,12661
+2020-07-18 0:00:00,PS-Generic-Latex Product [pros],74,0,491290000,0,4.47,6639054
+2020-07-18 0:00:00,GMA-Custom Intent [pros],9036,0,1623343742,0,19.34,179653
+2020-07-18 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,5180000,0,5.71,2590000
+2020-07-17 0:00:00,DAC-Retargeting [rt],2,0,9997980,0,0.35,4998990
+2020-07-17 0:00:00,PS-Generic-Competitor-Avocado [pros],32,1,254890000,3.12,1.67,7965313
+2020-07-17 0:00:00,PS-Brand-Sample-Compare To [brand],5,0,38970000,0,12.2,7794000
+2020-07-17 0:00:00,GMA-In-Market/Affinity [pros],51,0,4185782,0,17.83,82074
+2020-07-17 0:00:00,PS-Generic-Natural Product [ATC] [pros],2,0,17580000,0,1,8790000
+2020-07-17 0:00:00,PS-Generic-Organic Product [pros],76,0,606170000,0,3.52,7975921
+2020-07-17 0:00:00,PS-Generic-Competitor-Birch Living [pros],13,0,108070000,0,5.58,8313077
+2020-07-17 0:00:00,DAC-Generic-Custom Intent [pros],129,0,547915476,0,0.4,4247407
+2020-07-17 0:00:00,PS-Brand-Sample-Product Sizes [brand],5,0,52910000,0,26.32,10582000
+2020-07-17 0:00:00,GMA-Custom Intent [pros],6914,0,597994252,0,63.88,86490
+2020-07-17 0:00:00,PS-Generic-Organic Product Reviews [pros],4,0.9,32300000,22.5,7.69,8075000
+2020-07-17 0:00:00,PS-Generic-Green Product [pros],12,0,87840000,0,3.43,7320000
+2020-07-17 0:00:00,PS-Generic-Non Toxic (ATC) [pros],21,5.77,241610000,27.46,9.09,11505238
+2020-07-17 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],16,0,111740000,0,0.12,6983750
+2020-07-17 0:00:00,PS-Generic-Latex Product [pros],70,0,473430000,0,4.49,6763286
+2020-07-17 0:00:00,PS-Generic-Chemical Free [ATC] [pros],3,0.5,12380000,16.67,5.26,4126667
+2020-07-17 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],2,0,21840000,0,40,10920000
+2020-07-17 0:00:00,GMA-Retargeting [rt],22004,0,1361215768,0,58.77,61862
+2020-07-17 0:00:00,PS-Generic-Toxic Free [pros],2,0,9620000,0,16.67,4810000
+2020-07-17 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],4,0,14060000,0,7.14,3515000
+2020-07-17 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-17 0:00:00,PS-Brand-Sample-Reviews [brand],11,2,157170000,18.18,12.22,14288182
+2020-07-17 0:00:00,PS-Brand-Sample-Top Keywords [brand],161,5.4,1077200000,3.35,34.48,6690683
+2020-07-17 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],5,0,43270000,0,0.07,8654000
+2020-07-17 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],4,0,29110000,0,0.55,7277500
+2020-07-17 0:00:00,DAC-Generic-Affinity/InMarket [pros],16,0,22636110,0,1.08,1414757
+2020-07-16 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],6,0,25050000,0,0.07,4175000
+2020-07-16 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],20,0,128030000,0,0.14,6401500
+2020-07-16 0:00:00,GMA-Retargeting [rt],18,0,3513375,0,13.53,195188
+2020-07-16 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],3,0,34770000,0,3.7,11590000
+2020-07-16 0:00:00,GMA-Custom Intent [pros],1,0,10005,0,10,10005
+2020-07-16 0:00:00,PS-Brand-Sample-Top Keywords [brand],155,4.9,1145640000,3.16,37.26,7391226
+2020-07-16 0:00:00,PS-Brand-Sample-Compare To [brand],3,0,25880000,0,11.11,8626667
+2020-07-16 0:00:00,PS-Generic-Organic Product [pros],51,0,370830000,0,5.13,7271176
+2020-07-16 0:00:00,PS-Generic-Natural Product [ATC] [pros],4,0,52620000,0,3.08,13155000
+2020-07-16 0:00:00,PS-Generic-Non Toxic (ATC) [pros],22,4.5,224180000,20.45,8.27,10190000
+2020-07-16 0:00:00,DAC-Generic-Custom Intent [pros],0,0,0,0,0,0
+2020-07-16 0:00:00,PS-Brand-Sample-Product Sizes [brand],9,0,69270000,0,45,7696667
+2020-07-16 0:00:00,PS-Generic-Chemical Free [ATC] [pros],4,1,19480000,25,8,4870000
+2020-07-16 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-16 0:00:00,PS-Generic-Toxic Free [pros],1,0,6530000,0,8.33,6530000
+2020-07-16 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],6,2,32080000,33.33,0.77,5346667
+2020-07-16 0:00:00,PS-Generic-Competitor-Avocado [pros],36,0,260270000,0,2,7229722
+2020-07-16 0:00:00,PS-Generic-Latex Product [pros],68,4,428380000,5.88,4.63,6299706
+2020-07-16 0:00:00,DAC-Retargeting [rt],6,0,2992944,0,1.93,498824
+2020-07-16 0:00:00,PS-Generic-Competitor-Birch Living [pros],5,0,42350000,0,2.11,8470000
+2020-07-16 0:00:00,PS-Brand-Sample-Reviews [brand],13,0,177520000,0,12.75,13655385
+2020-07-16 0:00:00,GMA-In-Market/Affinity [pros],1,0,13262,0,8.33,13262
+2020-07-16 0:00:00,PS-Generic-Green Product [pros],13,0,96960000,0,4.69,7458462
+2020-07-16 0:00:00,PS-Generic-Organic Product Reviews [pros],2,0,19840000,0,6.25,9920000
+2020-07-15 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-15 0:00:00,PS-Generic-Latex Product [pros],60,5,386340000,8.33,3.04,6439000
+2020-07-15 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,9210000,0,3.7,4605000
+2020-07-15 0:00:00,GMA-Retargeting [rt],41,0,4706492,0,25.79,114792
+2020-07-15 0:00:00,PS-Generic-Organic Product Reviews [pros],1,0,9970000,0,2.38,9970000
+2020-07-15 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],1,0,690000,0,0.14,690000
+2020-07-15 0:00:00,PS-Generic-Competitor-Avocado [pros],32,0.45,279780000,1.41,1.76,8743125
+2020-07-15 0:00:00,PS-Brand-Sample-Product Sizes [brand],3,0.05,16320000,1.67,21.43,5440000
+2020-07-15 0:00:00,DAC-Retargeting [rt],3,0,8428969,0,0.98,2809656
+2020-07-15 0:00:00,PS-Generic-Natural Product [ATC] [pros],3,0,15220000,0,1.83,5073333
+2020-07-15 0:00:00,PS-Generic-Non Toxic (ATC) [pros],22,2.8,246130000,12.73,7.43,11187727
+2020-07-15 0:00:00,GMA-In-Market/Affinity [pros],900,0,46514800,0,88.06,51683
+2020-07-15 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],3,0.4,21370000,13.33,2.42,7123333
+2020-07-15 0:00:00,PS-Brand-Sample-Compare To [brand],2,0,13270000,0,4.35,6635000
+2020-07-15 0:00:00,PS-Generic-Green Product [pros],17,0,129610000,0,5.33,7624118
+2020-07-15 0:00:00,PS-Brand-Sample-Reviews [brand],25,2.9,355910000,11.6,21.93,14236400
+2020-07-15 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],17,0,73130000,0,0.19,4301765
+2020-07-15 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-15 0:00:00,PS-Generic-Competitor-Birch Living [pros],4,0,37400000,0,1.67,9350000
+2020-07-15 0:00:00,PS-Generic-Organic Product [pros],31,0,190120000,0,5.64,6132903
+2020-07-15 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-15 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-15 0:00:00,PS-Brand-Sample-Top Keywords [brand],142,1.6,966160000,1.13,31.56,6803944
+2020-07-15 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],19,0,98680000,0,0.12,5193684
+2020-07-14 0:00:00,PS-Generic-Competitor-Avocado [pros],43,1,293070000,2.33,2.65,6815581
+2020-07-14 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-14 0:00:00,GMA-In-Market/Affinity [pros],4159,0,207037992,0,91.75,49781
+2020-07-14 0:00:00,PS-Brand-Sample-Top Keywords [brand],137,5.5,903940000,4.01,31.35,6598102
+2020-07-14 0:00:00,PS-Generic-Competitor-Birch Living [pros],6,0,55800000,0,2.17,9300000
+2020-07-14 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],3,0,26310000,0,4.11,8770000
+2020-07-14 0:00:00,PS-Generic-Green Product [pros],17,0,122500000,0,5.72,7205882
+2020-07-14 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],12,0,98400000,0,0.11,8200000
+2020-07-14 0:00:00,PS-Generic-Organic Product [pros],31,0,185050000,0,4.78,5969355
+2020-07-14 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-14 0:00:00,GMA-Retargeting [rt],10,0,819828,0,9.01,81983
+2020-07-14 0:00:00,PS-Brand-Sample-Product Sizes [brand],6,0,38790000,0,37.5,6465000
+2020-07-14 0:00:00,PS-Generic-Non Toxic (ATC) [pros],28,9.6,267010000,34.29,9.82,9536071
+2020-07-14 0:00:00,PS-Brand-Sample-Compare To [brand],3,0,25860000,0,8.82,8620000
+2020-07-14 0:00:00,PS-Generic-Latex Product [pros],73,2,469650000,2.74,3.6,6433562
+2020-07-14 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],4,0,12460000,0,0.66,3115000
+2020-07-14 0:00:00,DAC-Retargeting [rt],9,0,7070887,0,2.36,785654
+2020-07-14 0:00:00,PS-Brand-Sample-Reviews [brand],15,0,191350000,0,13.89,12756667
+2020-07-14 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-14 0:00:00,PS-Generic-Chemical Free [ATC] [pros],1,0,740000,0,1.82,740000
+2020-07-14 0:00:00,PS-Generic-Natural Product [ATC] [pros],6,0,100760000,0,3.47,16793333
+2020-07-14 0:00:00,PS-Generic-Organic Product Reviews [pros],3,0,25000000,0,8.33,8333333
+2020-07-14 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-14 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],9,0,103650000,0,0.12,11516667
+2020-07-13 0:00:00,PS-Generic-Organic Product Reviews [pros],3,0,28210000,0,7.89,9403333
+2020-07-13 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-13 0:00:00,PS-Generic-Competitor-Birch Living [pros],5,0.4,46620000,8,1.54,9324000
+2020-07-13 0:00:00,PS-Generic-Natural Product [ATC] [pros],7,0,103190000,0,5.22,14741429
+2020-07-13 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-07-13 0:00:00,DAC-Generic-Custom Intent [pros],0,0,0,0,0,0
+2020-07-13 0:00:00,GMA-In-Market/Affinity [pros],5255,0,219767831,0,93.76,41821
+2020-07-13 0:00:00,PS-Generic-Non Toxic (ATC) [pros],28,6,380030000,21.43,9.46,13572500
+2020-07-13 0:00:00,DAC-Retargeting [rt],0,0,0,0,0,0
+2020-07-13 0:00:00,PS-Brand-Sample-Reviews [brand],13,0.5,177880000,3.85,14.77,13683077
+2020-07-13 0:00:00,PS-Generic-Green Product [pros],6,0,46120000,0,2.36,7686667
+2020-07-13 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],9,0,49720000,0,0.13,5524444
+2020-07-13 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],4,0,41430000,0,4.4,10357500
+2020-07-13 0:00:00,PS-Brand-Sample-Compare To [brand],0,0,0,0,0,0
+2020-07-13 0:00:00,PS-Generic-Competitor-Avocado [pros],39,1.5,348660000,3.85,2.15,8940000
+2020-07-13 0:00:00,PS-Generic-Organic Product [pros],50,0,320470000,0,5.93,6409400
+2020-07-13 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],17,0,104060000,0,0.14,6121176
+2020-07-13 0:00:00,PS-Brand-Sample-Top Keywords [brand],136,3,909860000,2.21,30.02,6690147
+2020-07-13 0:00:00,GMA-Retargeting [rt],11,0,829454,0,12.5,75405
+2020-07-13 0:00:00,PS-Generic-Chemical Free [ATC] [pros],1,0,5240000,0,2.56,5240000
+2020-07-13 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],4,0,19200000,0,0.65,4800000
+2020-07-13 0:00:00,PS-Brand-Sample-Product Sizes [brand],1,0,7680000,0,7.14,7680000
+2020-07-13 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-13 0:00:00,GMA-Custom Intent [pros],1,0,39972,0,6.67,39972
+2020-07-13 0:00:00,PS-Generic-Latex Product [pros],67,5,383520000,7.46,3.34,5724179
+2020-07-13 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-12 0:00:00,PS-Generic-Toxic Free [pros],1,0,3630000,0,7.14,3630000
+2020-07-12 0:00:00,PS-Generic-Latex Product [pros],87,7,559970000,8.05,3.68,6436437
+2020-07-12 0:00:00,GMA-Retargeting [rt],7,0,166976,0,16.28,23854
+2020-07-12 0:00:00,PS-Generic-Natural Product [ATC] [pros],7,0,74780000,0,3.95,10682857
+2020-07-12 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-12 0:00:00,PS-Generic-Organic Product Reviews [pros],2,0,17040000,0,4.88,8520000
+2020-07-12 0:00:00,PS-Generic-Organic Product ZZ [pros],0,0,0,0,0,0
+2020-07-12 0:00:00,PS-Generic-Green Product [pros],9,1,69180000,11.11,3.93,7686667
+2020-07-12 0:00:00,PS-Brand-Sample-Reviews [brand],7,0,100540000,0,6.54,14362857
+2020-07-12 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-12 0:00:00,PS-Generic-Organic Product [pros],33,0,221420000,0,4.01,6709697
+2020-07-12 0:00:00,PS-Brand-Sample-Compare To [brand],1,0,8920000,0,2.17,8920000
+2020-07-12 0:00:00,PS-Generic-Competitor-Birch Living [pros],6,0,48980000,0,2.08,8163333
+2020-07-12 0:00:00,PS-Generic-Competitor-Avocado [pros],24,2,149060000,8.33,1.58,6210833
+2020-07-12 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-12 0:00:00,GMA-In-Market/Affinity [pros],4739,0,214901991,0,95.37,45348
+2020-07-12 0:00:00,PS-Brand-Sample-Product Sizes [brand],4,0,35060000,0,16,8765000
+2020-07-12 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],2,0,9720000,0,2.99,4860000
+2020-07-12 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],5,0,23810000,0,0.79,4762000
+2020-07-12 0:00:00,PS-Generic-Non Toxic (ATC) [pros],24,5,294270000,20.83,6.7,12261250
+2020-07-12 0:00:00,PS-Generic-Chemical Free [ATC] [pros],1,0,2530000,0,1.39,2530000
+2020-07-12 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],23,0,179920000,0,0.17,7822609
+2020-07-12 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],10,0,29030000,0,0.11,2903000
+2020-07-12 0:00:00,PS-Brand-Sample-Top Keywords [brand],120,6.9,951340000,5.75,27.21,7927833
+2020-07-12 0:00:00,PS-Generic-DSA [pros],0,0,0,0,0,0
+2020-07-11 0:00:00,DAC-Generic-Custom Intent [pros],0,0,0,0,0,0
+2020-07-11 0:00:00,PS-Generic-Organic Product Reviews [pros],2,0,18680000,0,4.26,9340000
+2020-07-11 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-11 0:00:00,GMA-Retargeting [rt],9,0,181089,0,17.65,20121
+2020-07-11 0:00:00,PS-Brand-Sample-Reviews [brand],12,0,152000000,0,15.19,12666667
+2020-07-11 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-11 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],2,0,8240000,0,0.41,4120000
+2020-07-11 0:00:00,PS-Brand-Sample-Top Keywords [brand],119,5.7,850870000,4.79,28.67,7150168
+2020-07-11 0:00:00,PS-Brand-Sample-Product Sizes [brand],3,0,28920000,0,27.27,9640000
+2020-07-11 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-11 0:00:00,PS-Generic-Non Toxic (ATC) [pros],24,1.5,305220000,6.25,7.04,12717500
+2020-07-11 0:00:00,PS-Generic-Latex Product [pros],101,8.4,807900000,8.32,4.21,7999010
+2020-07-11 0:00:00,PS-Generic-Competitor-Birch Living [pros],5,0,42090000,0,1.81,8418000
+2020-07-11 0:00:00,GMA-In-Market/Affinity [pros],4494,0,226789057,0,94.61,50465
+2020-07-11 0:00:00,PS-Generic-Competitor-Avocado [pros],22,1,193670000,4.55,1.26,8803182
+2020-07-11 0:00:00,PS-Generic-Chemical Free [ATC] [pros],1,0,3740000,0,2.78,3740000
+2020-07-11 0:00:00,PS-Generic-Organic Product [pros],35,1,240470000,2.86,4.02,6870571
+2020-07-11 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],8,0,71380000,0,0.08,8922500
+2020-07-11 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-11 0:00:00,PS-Generic-Natural Product [ATC] [pros],9,0,74010000,0,5.62,8223333
+2020-07-11 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],1,0,5520000,0,1.3,5520000
+2020-07-11 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],9,0,9520000,0,0.12,1057778
+2020-07-11 0:00:00,PS-Generic-Green Product [pros],8,0,66000000,0,3.76,8250000
+2020-07-11 0:00:00,PS-Brand-Sample-Compare To [brand],3,0,25780000,0,5.88,8593333
+2020-07-10 0:00:00,PS-Generic-Natural Product [ATC] [pros],8,2,86160000,25,4.57,10770000
+2020-07-10 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-10 0:00:00,PS-Generic-Latex Product [pros],87,5,798430000,5.75,5.53,9177356
+2020-07-10 0:00:00,PS-Brand-Sample-Top Keywords [brand],118,5.5,796990000,4.66,27.44,6754153
+2020-07-10 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-10 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],2,0,3760000,0,0.4,1880000
+2020-07-10 0:00:00,DAC-Generic-Custom Intent [pros],0,0,0,0,0,0
+2020-07-10 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-07-10 0:00:00,GMA-Custom Intent [pros],1,0,16694,0,10,16694
+2020-07-10 0:00:00,PS-Generic-Competitor-Birch Living [pros],10,1,88530000,10,4.2,8853000
+2020-07-10 0:00:00,GMA-Retargeting [rt],16,0,2761095,0,20.25,172568
+2020-07-10 0:00:00,PS-Generic-Chemical Free [ATC] [pros],3,0,6180000,0,7.32,2060000
+2020-07-10 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],7,0,57760000,0,0.1,8251429
+2020-07-10 0:00:00,PS-Generic-Organic Product [pros],31,2,228540000,6.45,3.46,7372258
+2020-07-10 0:00:00,PS-Generic-Non Toxic (ATC) [pros],20,4,203660000,20,6.02,10183000
+2020-07-10 0:00:00,PS-Brand-Sample-Product Sizes [brand],4,0,28330000,0,19.05,7082500
+2020-07-10 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],3,1,22280000,33.33,4.76,7426667
+2020-07-10 0:00:00,PS-Brand-Sample-Compare To [brand],2,0,29220000,0,5.26,14610000
+2020-07-10 0:00:00,PS-Generic-Organic Product Reviews [pros],2,0,19380000,0,6.67,9690000
+2020-07-10 0:00:00,PS-Brand-Sample-Reviews [brand],16,2.6,224300000,16.25,15.84,14018750
+2020-07-10 0:00:00,PS-Generic-Green Product [pros],6,0,51920000,0,3.33,8653333
+2020-07-10 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-10 0:00:00,PS-Generic-Competitor-Avocado [pros],34,0,303870000,0,2.32,8937353
+2020-07-10 0:00:00,GMA-In-Market/Affinity [pros],6064,0,244187321,0,92.52,40268
+2020-07-10 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],10,0.5,75040000,5,0.15,7504000
+2020-07-09 0:00:00,GMA-In-Market/Affinity [pros],10935,0,239216350,0,95.05,21876
+2020-07-09 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],4,0.4,29540000,10,0.67,7385000
+2020-07-09 0:00:00,PS-Generic-Organic Product [pros],41,0,261190000,0,5.35,6370488
+2020-07-09 0:00:00,PS-Generic-Competitor-Avocado [pros],24,0,168210000,0,1.59,7008750
+2020-07-09 0:00:00,PS-Generic-Organic Product Reviews [pros],2,0,17290000,0,8.33,8645000
+2020-07-09 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-09 0:00:00,PS-Brand-Sample-Reviews [brand],14,2,199170000,14.29,20.9,14226429
+2020-07-09 0:00:00,PS-Generic-Competitor-Birch Living [pros],9,1,83570000,11.11,3.52,9285556
+2020-07-09 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],2,0,27430000,0,2.3,13715000
+2020-07-09 0:00:00,DAC-Generic-Custom Intent [pros],0,0,0,0,0,0
+2020-07-09 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-09 0:00:00,GMA-Retargeting [rt],19,0,1459350,0,21.11,76808
+2020-07-09 0:00:00,PS-Generic-Green Product [pros],12,0,111260000,0,5.71,9271667
+2020-07-09 0:00:00,PS-Brand-Sample-Top Keywords [brand],97,1.1,656390000,1.13,23.43,6766907
+2020-07-09 0:00:00,PS-Generic-Latex Product [pros],5,0,37950000,0,2.34,7590000
+2020-07-09 0:00:00,PS-Generic-Natural Product [ATC] [pros],8,1,81250000,12.5,3.77,10156250
+2020-07-09 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],4,0,35820000,0,0.06,8955000
+2020-07-09 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-09 0:00:00,PS-Brand-Sample-Compare To [brand],1,0,14550000,0,2.27,14550000
+2020-07-09 0:00:00,PS-Brand-Sample-Product Sizes [brand],5,1,28130000,20,25,5626000
+2020-07-09 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],9,0,68550000,0,0.09,7616667
+2020-07-09 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-09 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,4360000,0,7.41,2180000
+2020-07-09 0:00:00,DAC-Retargeting [rt],0,0,0,0,0,0
+2020-07-09 0:00:00,PS-Generic-Non Toxic (ATC) [pros],27,0.1,574210000,0.37,9.82,21267037
+2020-07-08 0:00:00,DAC-Generic-Custom Intent [pros],0,0,1035131,0,0,0
+2020-07-08 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-07-08 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-08 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-08 0:00:00,PS-Generic-Competitor-Avocado [pros],36,0,282400000,0,2.37,7844444
+2020-07-08 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],1,0,1810000,0,0.86,1810000
+2020-07-08 0:00:00,PS-Generic-Organic Product [pros],60,0,445320000,0,6.34,7422000
+2020-07-08 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],14,0,90030000,0,0.1,6430714
+2020-07-08 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,4500000,0,5.41,2250000
+2020-07-08 0:00:00,GMA-Retargeting [rt],14,0,1832467,0,13.59,130891
+2020-07-08 0:00:00,PS-Generic-Non Toxic (ATC) [pros],37,4.5,767420000,12.16,10.79,20741081
+2020-07-08 0:00:00,PS-Generic-Toxic Free [pros],2,0,10150000,0,16.67,5075000
+2020-07-08 0:00:00,PS-Generic-Competitor-Birch Living [pros],5,0,44610000,0,1.83,8922000
+2020-07-08 0:00:00,PS-Brand-Sample-Top Keywords [brand],120,6.75,672310000,5.62,27.15,5602583
+2020-07-08 0:00:00,PS-Generic-Latex Product [pros],3,0,8770000,0,1.39,2923333
+2020-07-08 0:00:00,PS-Generic-Organic Product Reviews [pros],2,0,18200000,0,6.25,9100000
+2020-07-08 0:00:00,PS-Brand-Sample-Reviews [brand],17,2,228040000,11.76,17,13414118
+2020-07-08 0:00:00,PS-Generic-Natural Product [ATC] [pros],4,0,33180000,0,1.75,8295000
+2020-07-08 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],16,0,100330000,0,0.16,6270625
+2020-07-08 0:00:00,PS-Brand-Sample-Compare To [brand],8,0,103030000,0,17.39,12878750
+2020-07-08 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-08 0:00:00,GMA-In-Market/Affinity [pros],8743,0,182854922,0,97.45,20914
+2020-07-08 0:00:00,DAC-Retargeting [rt],0,0,0,0,0,0
+2020-07-08 0:00:00,PS-Generic-Green Product [pros],12,0,102510000,0,4.86,8542500
+2020-07-08 0:00:00,PS-Brand-Sample-Product Sizes [brand],2,0,21520000,0,14.29,10760000
+2020-07-08 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],2,0,11110000,0,0.46,5555000
+2020-07-07 0:00:00,PS-Generic-Organic Product [pros],42,0,311600000,0,5.14,7419048
+2020-07-07 0:00:00,DAC-Generic-Custom Intent [pros],80,0,326854966,0,0.28,4085687
+2020-07-07 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-07 0:00:00,PS-Generic-Latex Product [pros],6,1,30890000,16.67,2.33,5148333
+2020-07-07 0:00:00,Shopping-Generic-Showcase-All Products [pros],0,0,0,0,0,0
+2020-07-07 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-07-07 0:00:00,PS-Brand-Sample-Compare To [brand],0,0,0,0,0,0
+2020-07-07 0:00:00,PS-Brand-Sample-Reviews [brand],17,2.7,230460000,15.88,14.53,13556471
+2020-07-07 0:00:00,PS-Generic-Organic Product Reviews [pros],2,0,18220000,0,4.08,9110000
+2020-07-07 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-07 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-07 0:00:00,PS-Brand-Sample-Top Keywords [brand],145,2.5,864930000,1.72,29.77,5965034
+2020-07-07 0:00:00,PS-Brand-Sample-Product Sizes [brand],5,1,48530000,20,12.82,9706000
+2020-07-07 0:00:00,GMA-Retargeting [rt],7,0,1620223,0,7.07,231460
+2020-07-07 0:00:00,PS-Generic-Green Product [pros],6,0,48870000,0,2.33,8145000
+2020-07-07 0:00:00,DAC-Retargeting [rt],3,0,3251132,0,0.58,1083711
+2020-07-07 0:00:00,PS-Generic-Natural Product [ATC] [pros],7,0,72330000,0,4.4,10332857
+2020-07-07 0:00:00,PS-Generic-Non Toxic (ATC) [pros],26,1,535910000,3.85,7.22,20611923
+2020-07-07 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,8530000,0,5.41,4265000
+2020-07-07 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],3,0,3530000,0,0.54,1176667
+2020-07-07 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],13,0,93380000,0,0.13,7183077
+2020-07-07 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],11,0,85750000,0,0.08,7795455
+2020-07-07 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],3,0,23540000,0,3.57,7846667
+2020-07-07 0:00:00,PS-Generic-Competitor-Birch Living [pros],6,0,51200000,0,1.88,8533333
+2020-07-07 0:00:00,PS-Generic-Competitor-Avocado [pros],24,0,174700000,0,1.56,7279167
+2020-07-06 0:00:00,PS-Generic-Latex Product [pros],8,0,49610000,0,3.15,6201250
+2020-07-06 0:00:00,PS-Brand-Sample-Top Keywords [brand],151,8.7,975750000,5.76,31.79,6461921
+2020-07-06 0:00:00,GMA-Retargeting [rt],12,0,2992543,0,8,249379
+2020-07-06 0:00:00,PS-Generic-Green Product [pros],12,0,90100000,0,4.08,7508333
+2020-07-06 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],5,2,25700000,40,3.55,5140000
+2020-07-06 0:00:00,DAC-Retargeting [rt],12,0,6890005,0,2.23,574167
+2020-07-06 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-06 0:00:00,PS-Generic-Organic Product [pros],26,0,189920000,0,3.86,7304615
+2020-07-06 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-07-06 0:00:00,PS-Generic-Non Toxic (ATC) [pros],23,1.1,172950000,4.78,8.46,7519565
+2020-07-06 0:00:00,PS-Brand-Sample-Reviews [brand],9,0,129440000,0,10.71,14382222
+2020-07-06 0:00:00,PS-Generic-Competitor-Birch Living [pros],9,0,80470000,0,2.3,8941111
+2020-07-06 0:00:00,PS-Generic-Competitor-Avocado [pros],44,0,453940000,0,1.82,10316818
+2020-07-06 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],1,0,3050000,0,20,3050000
+2020-07-06 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-06 0:00:00,PS-Brand-Sample-Compare To [brand],7,0,98710000,0,10.77,14101429
+2020-07-06 0:00:00,PS-Brand-Sample-Product Sizes [brand],2,0,10130000,0,11.76,5065000
+2020-07-06 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],2,0,5090000,0,0.66,2545000
+2020-07-06 0:00:00,PS-Generic-Chemical Free [ATC] [pros],1,0,4780000,0,3.23,4780000
+2020-07-06 0:00:00,PS-Generic-Organic Product Reviews [pros],5,0,43930000,0,10.2,8786000
+2020-07-06 0:00:00,DAC-Generic-Custom Intent [pros],167,0,250908082,0,0.46,1502444
+2020-07-06 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],13,0,120670000,0,0.15,9282308
+2020-07-06 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],10,1,52400000,10,0.18,5240000
+2020-07-05 0:00:00,PS-Generic-Toxic Free [pros],1,0,6960000,0,6.67,6960000
+2020-07-05 0:00:00,GMA-Retargeting [rt],3,0,721574,0,6.25,240525
+2020-07-05 0:00:00,PS-Generic-Latex Product [pros],6,0,24940000,0,2.21,4156667
+2020-07-05 0:00:00,DAC-Generic-Custom Intent [pros],368,0,327174544,0,0.71,889061
+2020-07-05 0:00:00,PS-Generic-Non Toxic (ATC) [pros],20,0.9,138250000,4.5,5.35,6912500
+2020-07-05 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-05 0:00:00,PS-Generic-Organic Product Reviews [pros],1,0,8170000,0,1.75,8170000
+2020-07-05 0:00:00,PS-Generic-Competitor-Avocado [pros],36,2.5,373740000,6.94,1.89,10381667
+2020-07-05 0:00:00,PS-Generic-Competitor-Birch Living [pros],12,0,104320000,0,2.92,8693333
+2020-07-05 0:00:00,PS-Brand-Sample-Reviews [brand],6,1.5,84620000,25,5.31,14103333
+2020-07-05 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],3,0,22150000,0,2.65,7383333
+2020-07-05 0:00:00,DAC-Retargeting [rt],10,0,4980581,0,1.46,498058
+2020-07-05 0:00:00,PS-Brand-Sample-Top Keywords [brand],164,13.5,1155110000,8.23,28.87,7043354
+2020-07-05 0:00:00,GMA-Custom Intent [pros],1,0,10011,0,14.29,10011
+2020-07-05 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],0,0,0,0,0,0
+2020-07-05 0:00:00,PS-Generic-Product Value Props [pros],0,0,0,0,0,0
+2020-07-05 0:00:00,PS-Generic-Organic Product [pros],41,0,291390000,0,6.63,7107073
+2020-07-05 0:00:00,PS-Generic-Chemical Free [ATC] [pros],4,0.5,10400000,12.5,11.76,2600000
+2020-07-05 0:00:00,PS-Brand-Sample-Product Sizes [brand],2,0.4,9190000,20,11.76,4595000
+2020-07-05 0:00:00,PS-Brand-Sample-Compare To [brand],10,0.2,144100000,2,8.77,14410000
+2020-07-05 0:00:00,PS-Generic-Green Product [pros],7,0,55680000,0,2.41,7954286
+2020-07-04 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],0,0,0,0,0,0
+2020-07-04 0:00:00,PS-Brand-Sample-Compare To [brand],0,0,0,0,0,0
+2020-07-04 0:00:00,PS-Generic-Chemical Free [ATC] [pros],0,0,0,0,0,0
+2020-07-04 0:00:00,PS-Generic-Competitor-Avocado [pros],23,0,213820000,0,1.3,9296522
+2020-07-04 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-07-04 0:00:00,PS-Generic-Competitor-Birch Living [pros],10,0.4,87100000,4,2.58,8710000
+2020-07-04 0:00:00,DAC-Retargeting [rt],10,0,7539392,0,1.93,753939
+2020-07-04 0:00:00,PS-Generic-Organic Product Reviews [pros],3,0,28740000,0,4.92,9580000
+2020-07-04 0:00:00,PS-Generic-Latex Product [pros],5,0,34870000,0,1.88,6974000
+2020-07-04 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-04 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],3,0,24390000,0,5.66,8130000
+2020-07-04 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-04 0:00:00,PS-Generic-Green Product [pros],11,0,85520000,0,4.2,7774545
+2020-07-04 0:00:00,PS-Generic-Non Toxic (ATC) [pros],23,0,141380000,0,6.8,6146957
+2020-07-04 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-07-04 0:00:00,GMA-Retargeting [rt],7,0,411210,0,17.07,58744
+2020-07-04 0:00:00,PS-Brand-Sample-Top Keywords [brand],157,11.03,1044350000,7.03,29.02,6651911
+2020-07-04 0:00:00,PS-Brand-Sample-Reviews [brand],10,2.6,137280000,26,7.35,13728000
+2020-07-04 0:00:00,PS-Generic-Organic Product [pros],25,0,181290000,0,4.69,7251600
+2020-07-04 0:00:00,PS-Brand-Sample-Product Sizes [brand],6,0,56880000,0,35.29,9480000
+2020-07-04 0:00:00,DAC-Generic-Custom Intent [pros],231,0,296343192,0,0.61,1282871
+2020-07-03 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-03 0:00:00,PS-Brand-Sample-Reviews [brand],9,2,130060000,22.22,8.18,14451111
+2020-07-03 0:00:00,PS-Generic-Latex Product (TEST 2) [pros],0,0,0,0,0,0
+2020-07-03 0:00:00,PS-Brand-Sample-Compare To [brand],5,0,64330000,0,6.41,12866000
+2020-07-03 0:00:00,PS-Generic-Latex Product [pros],0,0,0,0,0,0
+2020-07-03 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],0,0,0,0,0,0
+2020-07-03 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-07-03 0:00:00,PS-Generic-Competitor-Avocado [pros],39,1,313420000,2.56,1.78,8036410
+2020-07-03 0:00:00,PS-Generic-Non Toxic (ATC) [pros],20,1.3,117210000,6.5,6.12,5860500
+2020-07-03 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],4,0,17210000,0,0.34,4302500
+2020-07-03 0:00:00,PS-Generic-Eco Friendly [ATC] [pros],4,0,30470000,0,4.55,7617500
+2020-07-03 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],1,0,2140000,0,1.18,2140000
+2020-07-03 0:00:00,DAC-Retargeting [rt],24,1,22615959,3.23,3.56,942332
+2020-07-03 0:00:00,PS-Brand-Sample-Product Sizes [brand],2,0,15680000,0,11.11,7840000
+2020-07-03 0:00:00,PS-Generic-Competitor-Birch Living [pros],7,0,62910000,0,1.77,8987143
+2020-07-03 0:00:00,PS-Generic-Organic Product Reviews [pros],5,1,46170000,20,13.16,9234000
+2020-07-03 0:00:00,DAC-Generic-Custom Intent [pros],202,0,240576914,0,0.65,1190975
+2020-07-03 0:00:00,PS-Brand-Sample-Top Keywords [brand],159,9.8,1067740000,6.16,31.86,6715346
+2020-07-03 0:00:00,PS-Generic-Organic Product [pros],31,0,166340000,0,4.84,5365806
+2020-07-03 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],1,0,11320000,0,14.29,11320000
+2020-07-03 0:00:00,PS-Generic-Green Product [pros],6,0,46450000,0,2.54,7741667
+2020-07-03 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,11650000,0,4.55,5825000
+2020-07-03 0:00:00,GMA-Retargeting [rt],6,0,214873,0,13.95,35812
+2020-07-02 0:00:00,PS-Retargeting-DSA [rt],0,0,0,0,0,0
+2020-07-02 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-07-02 0:00:00,PS-Generic-Organic Product Reviews [pros],3,0,24870000,0,6.82,8290000
+2020-07-02 0:00:00,PS-Generic-Green Product [pros],13,0,96510000,0,5.58,7423846
+2020-07-02 0:00:00,PS-Brand-Sample-Top Keywords [brand],167,9.17,1162190000,5.49,31.75,6959222
+2020-07-02 0:00:00,GMA-Retargeting [rt],4,0,274968,0,8.89,68742
+2020-07-02 0:00:00,PS-Generic-Competitor-Birch Living [pros],6,0,50390000,0,1.86,8398333
+2020-07-02 0:00:00,PS-Generic-Organic Product [pros],24,1,133130000,4.17,3.97,5547083
+2020-07-02 0:00:00,PS-Brand-Sample-Reviews [brand],6,0,83620000,0,6.38,13936667
+2020-07-02 0:00:00,DAC-Generic-Custom Intent [pros],70,0,348852712,0,0.32,4983610
+2020-07-02 0:00:00,PS-Brand-Sample-Product Sizes [brand],6,0,46360000,0,26.09,7726667
+2020-07-02 0:00:00,PS-Generic-Latex Product [pros],7,1,40420000,14.29,3.21,5774286
+2020-07-02 0:00:00,PS-Generic-Competitor-Avocado [pros],33,0,258880000,0,1.9,7844848
+2020-07-02 0:00:00,DAC-Retargeting [rt],16,0,12589309,0,2.35,786832
+2020-07-02 0:00:00,PS-Generic-Chemical Free [ATC] [pros],3,0,6190000,0,8.11,2063333
+2020-07-02 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],5,1,24190000,20,0.93,4838000
+2020-07-02 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],9,0,64860000,0,0.09,7206667
+2020-07-02 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],2,1,8810000,50,28.57,4405000
+2020-07-02 0:00:00,PS-Brand-Sample-Compare To [brand],7,0,100840000,0,13.73,14405714
+2020-07-02 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],5,0,8110000,0,0.07,1622000
+2020-07-02 0:00:00,GMA-Custom Intent [pros],1,0,54423,0,8.33,54423
+2020-07-02 0:00:00,PS-Generic-Non Toxic (ATC) [pros],29,0,177130000,0,7.51,6107931
+2020-07-01 0:00:00,PS-Generic-Natural Product [ATC] [pros],0,0,0,0,0,0
+2020-07-01 0:00:00,PS-Generic-Competitor-Nest Bedding [pros],0,0,0,0,0,0
+2020-07-01 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],5,0,25920000,0,1.12,5184000
+2020-07-01 0:00:00,PS-Brand-Sample-Reviews [brand],14,1.4,200010000,10,13.59,14286429
+2020-07-01 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],1,0,6690000,0,16.67,6690000
+2020-07-01 0:00:00,PS-Generic-Non Toxic (ATC) [pros],25,0,155490000,0,7.91,6219600
+2020-07-01 0:00:00,PS-Generic-Green Product [pros],9,0,72790000,0,4.02,8087778
+2020-07-01 0:00:00,PS-Brand-Sample-Top Keywords [brand],167,7.33,1042360000,4.39,32.75,6241677
+2020-07-01 0:00:00,PS-Generic-Competitor-Birch Living [pros],6,0,53280000,0,1.88,8880000
+2020-07-01 0:00:00,DAC-Generic-Custom Intent [pros],55,0,311921636,0,0.31,5671302
+2020-07-01 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],24,2,149070000,8.33,0.18,6211250
+2020-07-01 0:00:00,PS-Generic-Organic Product Reviews [pros],1,1,9320000,100,2.17,9320000
+2020-07-01 0:00:00,PS-Brand-Sample-Product Sizes [brand],5,0.05,45430000,1,29.41,9086000
+2020-07-01 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,8710000,0,7.41,4355000
+2020-07-01 0:00:00,PS-Generic-Competitor-Avocado [pros],29,1,221470000,3.45,1.55,7636897
+2020-07-01 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],10,0.6,107150000,6,0.11,10715000
+2020-07-01 0:00:00,PS-Generic-Organic Product [pros],27,1,162970000,3.7,4.44,6035926
+2020-07-01 0:00:00,GMA-Retargeting [rt],2,0,525312,0,4,262656
+2020-07-01 0:00:00,GMA-Custom Intent [pros],1,0,37754,0,4.35,37754
+2020-07-01 0:00:00,PS-Generic-Toxic Free [pros],1,0,2840000,0,12.5,2840000
+2020-07-01 0:00:00,DAC-Retargeting [rt],16,0,7568279,0,2.82,473017
+2020-07-01 0:00:00,PS-Generic-Latex Product [pros],8,1,52630000,12.5,3.92,6578750
+2020-07-01 0:00:00,PS-Brand-Sample-Compare To [brand],4,0,52420000,0,7.27,13105000
+2020-06-30 0:00:00,PS-Generic-Non Toxic (ATC) [pros],21,1.2,131400000,5.71,6.46,6257143
+2020-06-30 0:00:00,PS-Generic-Organic Product [pros],30,0.4,207650000,1.33,4.63,6921667
+2020-06-30 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],4,1,17920000,25,0.88,4480000
+2020-06-30 0:00:00,PS-Generic-Organic Product Reviews [pros],1,0,9690000,0,2.94,9690000
+2020-06-30 0:00:00,PS-Generic-Toxic Free [pros],1,0,6340000,0,12.5,6340000
+2020-06-30 0:00:00,DAC-Generic-Custom Intent [pros],1761,0,248305742,0,11.26,141003
+2020-06-30 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],27,0.4,242580000,1.48,0.32,8984444
+2020-06-30 0:00:00,DAC-Retargeting [rt],19,0,15964331,0,3.47,840228
+2020-06-30 0:00:00,PS-Generic-Green Product [pros],14,0,112710000,0,4.71,8050714
+2020-06-30 0:00:00,GMA-Custom Intent [pros],1,0,214116,0,2.63,214116
+2020-06-30 0:00:00,PS-Generic-Chemical Free [ATC] [pros],1,0,2570000,0,3.7,2570000
+2020-06-30 0:00:00,PS-Generic-Competitor-Birch Living [pros],11,0.6,100500000,5.45,3.36,9136364
+2020-06-30 0:00:00,Shopping-Generic-USA-FRAME-2-MP [pros],0,0,0,0,0,0
+2020-06-30 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],27,1,288150000,3.7,0.21,10672222
+2020-06-30 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-06-30 0:00:00,PS-Brand-Sample-Reviews [brand],7,1,97540000,14.29,8.43,13934286
+2020-06-30 0:00:00,PS-Brand-Sample-Compare To [brand],5,1,67150000,20,12.5,13430000
+2020-06-30 0:00:00,PS-Brand-Sample-Top Keywords [brand],159,9.55,1034700000,6.01,32.78,6507547
+2020-06-30 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-30 0:00:00,PS-Generic-Competitor-Avocado [pros],32,0,288370000,0,1.82,9011563
+2020-06-30 0:00:00,GMA-Retargeting [rt],8,0,1150574,0,12.7,143822
+2020-06-30 0:00:00,PS-Brand-Sample-Product Sizes [brand],8,0.05,49110000,0.62,50,6138750
+2020-06-30 0:00:00,PS-Generic-Latex Product [pros],1,0,5280000,0,0.81,5280000
+2020-06-29 0:00:00,DAC-Generic-Custom Intent [pros],1849,0,308509050,0,10.17,166852
+2020-06-29 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-29 0:00:00,Shopping-Generic-USA-FRAME-2-MP [pros],0,0,0,0,0,0
+2020-06-29 0:00:00,PS-Brand-Sample-Reviews [brand],11,1.5,159280000,13.64,9.91,14480000
+2020-06-29 0:00:00,PS-Generic-DSA [pros],0,0,0,0,0,0
+2020-06-29 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-06-29 0:00:00,PS-Generic-Competitor-Avocado [pros],28,0.4,205880000,1.43,1.56,7352857
+2020-06-29 0:00:00,PS-Brand-Sample-Top Keywords [brand],164,7.15,1195860000,4.36,30.71,7291829
+2020-06-29 0:00:00,PS-Brand-Sample-Product Sizes [brand],4,1,37220000,25,22.22,9305000
+2020-06-29 0:00:00,DAC-Retargeting [rt],21,0,10015027,0,4.75,476906
+2020-06-29 0:00:00,PS-Generic-Green Product [pros],22,0,175240000,0,7.28,7965455
+2020-06-29 0:00:00,PS-Generic-Competitor-Birch Living [pros],10,0.4,92290000,4,2.98,9229000
+2020-06-29 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],24,0.4,193400000,1.67,0.25,8058333
+2020-06-29 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],5,0,9460000,0,0.66,1892000
+2020-06-29 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],15,0,153330000,0,0.21,10222000
+2020-06-29 0:00:00,PS-Generic-Toxic Free [pros],2,0,9290000,0,10,4645000
+2020-06-29 0:00:00,PS-Brand-Sample-Compare To [brand],5,0,55450000,0,8.2,11090000
+2020-06-29 0:00:00,PS-Generic-Non Toxic (ATC) [pros],28,0.4,182530000,1.43,7.73,6518929
+2020-06-29 0:00:00,PS-Generic-Latex Product [pros],5,0,26420000,0,2.82,5284000
+2020-06-29 0:00:00,PS-Generic-Organic Product Reviews [pros],3,1,29000000,33.33,8.33,9666667
+2020-06-29 0:00:00,GMA-Retargeting [rt],2,0,856804,0,6.45,428402
+2020-06-29 0:00:00,PS-Generic-Organic Product [pros],27,0,180250000,0,4.21,6675926
+2020-06-29 0:00:00,PS-Generic-Chemical Free [ATC] [pros],4,0,10720000,0,9.52,2680000
+2020-06-28 0:00:00,PS-Generic-Competitor-Avocado [pros],26,1,224330000,3.85,1.67,8628077
+2020-06-28 0:00:00,PS-Brand-Sample-Top Keywords [brand],153,10.1,934560000,6.6,30.3,6108235
+2020-06-28 0:00:00,DAC-Retargeting [rt],8,0,6430000,0,1.71,803750
+2020-06-28 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],0,0,0,0,0,0
+2020-06-28 0:00:00,GMA-Custom Intent [pros],1,0,10010,0,14.29,10010
+2020-06-28 0:00:00,PS-Generic-Green Product [pros],9,0,79300000,0,3.11,8811111
+2020-06-28 0:00:00,PS-Brand-Sample-Reviews [brand],6,1.8,87290000,30,5.56,14548333
+2020-06-28 0:00:00,PS-Generic-Latex Product [pros],2,0,13080000,0,1.29,6540000
+2020-06-28 0:00:00,PS-Brand-Sample-Compare To [brand],7,0,97860000,0,14.58,13980000
+2020-06-28 0:00:00,PS-Brand-Sample-Product Sizes [brand],3,0.2,28480000,6.67,15,9493333
+2020-06-28 0:00:00,PS-Generic-Competitor-Birch Living [pros],5,0,48270000,0,1.5,9654000
+2020-06-28 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-28 0:00:00,PS-Generic-Organic Product Reviews [pros],3,0,28740000,0,6.98,9580000
+2020-06-28 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],4,0,7230000,0,0.1,1807500
+2020-06-28 0:00:00,PS-Generic-Non Toxic (ATC) [pros],34,0,205670000,0,8.31,6049118
+2020-06-28 0:00:00,PS-Generic-Organic Product [pros],26,0,152070000,0,4.74,5848846
+2020-06-28 0:00:00,GMA-Retargeting [rt],2,0,39416,0,12.5,19708
+2020-06-28 0:00:00,PS-Generic-Chemical Free [ATC] [pros],0,0,0,0,0,0
+2020-06-28 0:00:00,DAC-Generic-Custom Intent [pros],1555,0,296527875,0,7.76,190693
+2020-06-28 0:00:00,PS-Generic-Toxic Free [pros],2,0,6320000,0,18.18,3160000
+2020-06-27 0:00:00,PS-Brand-Sample-Product Sizes [brand],4,0,21580000,0,33.33,5395000
+2020-06-27 0:00:00,PS-Generic-Green Product [pros],14,0,109310000,0,5.04,7807857
+2020-06-27 0:00:00,GMA-Retargeting [rt],3,0,332524,0,13.64,110841
+2020-06-27 0:00:00,DAC-Retargeting [rt],15,0,12297648,0,3.74,819843
+2020-06-27 0:00:00,PS-Brand-Sample-Compare To [brand],1,0,4010000,0,2.7,4010000
+2020-06-27 0:00:00,PS-Generic-Chemical Free [ATC] [pros],4,1,12970000,25,7.02,3242500
+2020-06-27 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],0,0,0,0,0,0
+2020-06-27 0:00:00,PS-Generic-Organic Product Reviews [pros],2,0,19400000,0,4.65,9700000
+2020-06-27 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-27 0:00:00,PS-Brand-Sample-Reviews [brand],15,1.5,212650000,10,17.24,14176667
+2020-06-27 0:00:00,PS-Generic-Non Toxic (ATC) [pros],30,0,186540000,0,7.35,6218000
+2020-06-27 0:00:00,PS-Brand-Sample-Top Keywords [brand],148,7.85,939750000,5.3,36.19,6349662
+2020-06-27 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-06-27 0:00:00,PS-Generic-Latex Product [pros],3,0,18660000,0,2.04,6220000
+2020-06-27 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],9,0,39110000,0,0.23,4345556
+2020-06-27 0:00:00,DAC-Generic-Custom Intent [pros],1023,1,170426052,0.1,8.04,166594
+2020-06-27 0:00:00,PS-Generic-Competitor-Birch Living [pros],4,0,33010000,0,1.2,8252500
+2020-06-27 0:00:00,PS-Generic-Organic Product [pros],16,0,95520000,0,2.65,5970000
+2020-06-27 0:00:00,PS-Generic-Competitor-Avocado [pros],28,0.05,220520000,0.18,2.22,7875714
+2020-06-27 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],0,0,0,0,0,0
+2020-06-27 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-06-27 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-06-26 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],6,0,15560000,0,0.27,2593333
+2020-06-26 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-06-26 0:00:00,PS-Generic-Competitor-Avocado [pros],25,0,174050000,0,1.69,6962000
+2020-06-26 0:00:00,PS-Generic-Competitor-Birch Living [pros],6,0.9,53910000,15,2.1,8985000
+2020-06-26 0:00:00,PS-Generic-Organic Product (SALE) (TEST) [pros],0,0,0,0,0,0
+2020-06-26 0:00:00,PS-Generic-Organic Product Reviews [pros],5,0,44870000,0,17.24,8974000
+2020-06-26 0:00:00,PS-Brand-Sample-Top Keywords [brand],122,4.9,797000000,4.02,32.97,6532787
+2020-06-26 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],0,0,0,0,0,0
+2020-06-26 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-26 0:00:00,PS-Brand-Sample-Reviews [brand],15,0,210450000,0,15.62,14030000
+2020-06-26 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],0,0,0,0,0,0
+2020-06-26 0:00:00,PS-Generic-Toxic Free [pros],2,0,11920000,0,25,5960000
+2020-06-26 0:00:00,DAC-Retargeting [rt],7,0,4710007,0,1.51,672858
+2020-06-26 0:00:00,PS-Generic-Latex Product [pros],6,0,25780000,0,4.58,4296667
+2020-06-26 0:00:00,PS-Brand-Sample-Product Sizes [brand],12,0.5,96870000,4.17,57.14,8072500
+2020-06-26 0:00:00,PS-Generic-Chemical Free [ATC] [pros],1,0,2230000,0,2.13,2230000
+2020-06-26 0:00:00,DAC-Generic-Custom Intent [pros],1787,0,341387116,0,9.94,191039
+2020-06-26 0:00:00,GMA-Retargeting [rt],5,0,227530,0,11.9,45506
+2020-06-26 0:00:00,PS-Generic-Green Product [pros],14,0,107510000,0,5.22,7679286
+2020-06-26 0:00:00,PS-Generic-Organic Product [pros],25,0,122060000,0,4.74,4882400
+2020-06-26 0:00:00,PS-Generic-Non Toxic (ATC) [pros],18,0,114000000,0,5.79,6333333
+2020-06-26 0:00:00,PS-Brand-Sample-Compare To [brand],2,0,13620000,0,4.88,6810000
+2020-06-26 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-06-25 0:00:00,PS-Brand-Sample-Reviews [brand],8,0,112970000,0,8.42,14121250
+2020-06-25 0:00:00,DAC-Retargeting [rt],21,0,18538147,0,2.15,882769
+2020-06-25 0:00:00,DAC-Generic-Custom Intent [pros],1147,0,299219797,0,6.62,260872
+2020-06-25 0:00:00,PS-Generic-Organic Product Reviews [pros],5,0,41330000,0,15.62,8266000
+2020-06-25 0:00:00,PS-Generic-Competitor-Avocado [pros],21,0,119350000,0,1.4,5683333
+2020-06-25 0:00:00,PS-Generic-Green Product [pros],14,0,105860000,0,5.45,7561429
+2020-06-25 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-25 0:00:00,PS-Generic-Organic Product [pros],25,2.5,142540000,10,4.84,5701600
+2020-06-25 0:00:00,PS-Brand-Sample-Top Keywords [brand],156,3.8,1130410000,2.44,36.79,7246218
+2020-06-25 0:00:00,PS-Generic-Non Toxic (ATC) [pros],18,0,99160000,0,6.36,5508889
+2020-06-25 0:00:00,PS-Generic-Competitor-Birch Living [pros],6,0,52240000,0,2.55,8706667
+2020-06-25 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-06-25 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],0,0,0,0,0,0
+2020-06-25 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],0,0,0,0,0,0
+2020-06-25 0:00:00,PS-Brand-Sample-Compare To [brand],6,1,69100000,16.67,14.63,11516667
+2020-06-25 0:00:00,GMA-Retargeting [rt],1,0,10001,0,2.27,10001
+2020-06-25 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],0,0,0,0,0,0
+2020-06-25 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-06-25 0:00:00,PS-Generic-Chemical Free [ATC] [pros],4,0,9520000,0,9.3,2380000
+2020-06-25 0:00:00,PS-Generic-Latex Product [pros],3,0,7750000,0,2.11,2583333
+2020-06-25 0:00:00,PS-Brand-Sample-Product Sizes [brand],3,0,20190000,0,21.43,6730000
+2020-06-24 0:00:00,PS-Brand-Sample-Top Keywords [brand],149,2.13,898090000,1.43,32.18,6027450
+2020-06-24 0:00:00,PS-Brand-Sample-Compare To [brand],4,0.4,46620000,10,10.81,11655000
+2020-06-24 0:00:00,PS-Generic-Toxic Free [pros],3,0,19700000,0,15,6566667
+2020-06-24 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],0,0,0,0,0,0
+2020-06-24 0:00:00,PS-Generic-Latex Product [pros],0,0,0,0,0,0
+2020-06-24 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-24 0:00:00,PS-Generic-Competitor-Birch Living [pros],4,0,26120000,0,1.34,6530000
+2020-06-24 0:00:00,DAC-Generic-Custom Intent [pros],1151,0,208655946,0,6.15,181282
+2020-06-24 0:00:00,PS-Brand-Sample-Reviews [brand],11,1,139830000,9.09,15.49,12711818
+2020-06-24 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],0,0,0,0,0,0
+2020-06-24 0:00:00,PS-Generic-Green Product [pros],12,0,84280000,0,5.38,7023333
+2020-06-24 0:00:00,PS-Generic-Natural Product [ATC] [pros],0,0,0,0,0,0
+2020-06-24 0:00:00,PS-Generic-Chemical Free [ATC] [pros],4,0,18550000,0,7.41,4637500
+2020-06-24 0:00:00,GMA-Custom Intent [pros],0,0,0,0,0,0
+2020-06-24 0:00:00,PS-Generic-Non Toxic (ATC) [pros],14,0,68990000,0,4.7,4927857
+2020-06-24 0:00:00,PS-Generic-Competitor-Avocado [pros],24,1,164450000,4.17,1.84,6852083
+2020-06-24 0:00:00,GMA-Retargeting [rt],3,0,302090,0,7.32,100697
+2020-06-24 0:00:00,DAC-Retargeting [rt],12,0,6963061,0,2.61,580255
+2020-06-24 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],0,0,0,0,0,0
+2020-06-24 0:00:00,PS-Generic-Organic Product [pros],36,0,179720000,0,5.8,4992222
+2020-06-24 0:00:00,PS-Generic-Organic Product Reviews [pros],3,0,18520000,0,6.25,6173333
+2020-06-24 0:00:00,PS-Brand-Sample-Product Sizes [brand],7,0.4,44380000,5.71,36.84,6340000
+2020-06-23 0:00:00,PS-Generic-Organic Product Reviews [pros],4,0,33410000,0,9.52,8352500
+2020-06-23 0:00:00,PS-Generic-Non Toxic (ATC) [pros],14,0,73230000,0,4.46,5230714
+2020-06-23 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-06-23 0:00:00,PS-Brand-Sample-Reviews [brand],6,2,85220000,33.33,9.84,14203333
+2020-06-23 0:00:00,GMA-Custom Intent [pros],1,0,96889,0,3.7,96889
+2020-06-23 0:00:00,PS-Generic-Latex Product (TEST 2) [pros],0,0,0,0,0,0
+2020-06-23 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-23 0:00:00,PS-Generic-Green Product [pros],11,0,74780000,0,5.02,6798182
+2020-06-23 0:00:00,PS-Generic-Organic Product [pros],38,0,211780000,0,6.5,5573158
+2020-06-23 0:00:00,PS-Generic-Latex Product [pros],15,1,88450000,6.67,2.37,5896667
+2020-06-23 0:00:00,DAC-Retargeting [rt],9,0,8107311,0,1.42,900812
+2020-06-23 0:00:00,PS-Generic-Toxic Free [pros],1,0,4700000,0,7.69,4700000
+2020-06-23 0:00:00,GMA-Retargeting [rt],6,1,2677608,16.67,13.33,446268
+2020-06-23 0:00:00,PS-Generic-Competitor-Avocado [pros],23,1,163950000,4.35,1.48,7128261
+2020-06-23 0:00:00,PS-Brand-Sample-Product Sizes [brand],1,0,5000000,0,4.55,5000000
+2020-06-23 0:00:00,PS-Brand-Sample-Compare To [brand],4,0,32530000,0,12.5,8132500
+2020-06-23 0:00:00,DAC-Generic-Custom Intent [pros],1592,0,313881972,0,4.28,197162
+2020-06-23 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],16,0,77590000,0,0.16,4849375
+2020-06-23 0:00:00,PS-Brand-Sample-Top Keywords [brand],143,5.97,918030000,4.17,32.13,6419790
+2020-06-23 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],15,0,143970000,0,0.11,9598000
+2020-06-23 0:00:00,PS-Generic-Competitor-Birch Living [pros],8,0,66200000,0,2.65,8275000
+2020-06-23 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],2,0,9710000,0,0.72,4855000
+2020-06-23 0:00:00,PS-Generic-Chemical Free [ATC] [pros],4,0,16510000,0,10.53,4127500
+2020-06-22 0:00:00,PS-Brand-Sample-Top Keywords [brand],160,5.43,1013640000,3.39,36.12,6335250
+2020-06-22 0:00:00,GMA-Custom Intent [pros],1,0,234240,0,2.63,234240
+2020-06-22 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],28,1,201500000,3.57,0.16,7196429
+2020-06-22 0:00:00,PS-Generic-Green Product [pros],19,0,138720000,0,4.3,7301053
+2020-06-22 0:00:00,PS-Generic-Latex Product (TEST 2) [pros],0,0,0,0,0,0
+2020-06-22 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
+2020-06-22 0:00:00,PS-Generic-Organic Product Reviews [pros],4,0,34780000,0,15.38,8695000
+2020-06-22 0:00:00,PS-Brand-Sample-Compare To [brand],7,0,79540000,0,17.5,11362857
+2020-06-22 0:00:00,PS-Generic-Organic Product (SALE) (TEST) [pros],10,0,49100000,0,5.99,4910000
+2020-06-22 0:00:00,PS-Brand-Sample-Reviews [brand],14,2.25,183660000,16.07,15.91,13118571
+2020-06-22 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-22 0:00:00,PS-Generic-Competitor-Avocado [pros],37,1.5,275490000,4.05,1.94,7445676
+2020-06-22 0:00:00,PS-Brand-Sample-Product Sizes [brand],3,0,23320000,0,16.67,7773333
+2020-06-22 0:00:00,PS-Generic-Latex Product [pros],36,0,249120000,0,3.71,6920000
+2020-06-22 0:00:00,PS-Generic-Competitor-Birch Living [pros],7,0,63230000,0,2.29,9032857
+2020-06-22 0:00:00,DAC-Generic-Custom Intent [pros],1605,1,324892052,0.06,5.42,202425
+2020-06-22 0:00:00,PS-Generic-Non Toxic (ATC) [pros],25,0,203100000,0,7.84,8124000
+2020-06-22 0:00:00,PS-Generic-Organic Product [pros],37,0.4,221530000,1.08,7.39,5987297
+2020-06-22 0:00:00,DAC-Retargeting [rt],13,0,8437612,0,1.64,649047
+2020-06-22 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],4,0,21270000,0,1.04,5317500
+2020-06-22 0:00:00,GMA-Retargeting [rt],3,0,272252,0,5.26,90751
+2020-06-22 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],18,0,152360000,0,0.1,8464444
+2020-06-22 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,5210000,0,5,2605000
+2020-06-21 0:00:00,PS-Generic-Organic Product Reviews [pros],5,0,40840000,0,10.87,8168000
+2020-06-21 0:00:00,DAC-Retargeting [rt],37,0,31417002,0,3.25,849108
+2020-06-21 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-21 0:00:00,PS-Generic-Latex Product [pros],11,0,67810000,0,1.87,6164545
+2020-06-21 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],9,0,30020000,0,0.33,3335556
+2020-06-21 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],41,0,326010000,0,0.18,7951463
+2020-06-21 0:00:00,PS-Brand-Sample-Compare To [brand],1,0,9910000,0,3.33,9910000
+2020-06-21 0:00:00,PS-Generic-Organic Product [pros],22,0,155700000,0,7.75,7077273
+2020-06-21 0:00:00,PS-Generic-Competitor-Avocado [pros],32,1,306230000,3.12,1.89,9569688
+2020-06-21 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],35,0,417770000,0,0.21,11936286
+2020-06-21 0:00:00,DAC-Generic-Custom Intent [pros],1541,0,303354710,0,4.65,196856
+2020-06-21 0:00:00,PS-Brand-Sample-Product Sizes [brand],6,0,42120000,0,42.86,7020000
+2020-06-21 0:00:00,GMA-Custom Intent [pros],1,0,17310,0,5.56,17310
+2020-06-21 0:00:00,PS-Generic-Latex Product (TEST 2) [pros],3,0,18250000,0,2.86,6083333
+2020-06-21 0:00:00,PS-Generic-Green Product [pros],31,0,244910000,0,5.15,7900323
+2020-06-21 0:00:00,PS-Brand-Sample-Top Keywords [brand],133,8.43,955660000,6.34,36.64,7185414
+2020-06-21 0:00:00,PS-Brand-Sample-Reviews [brand],4,0.17,38360000,4.17,7.14,9590000
+2020-06-21 0:00:00,PS-Generic-Organic Product (SALE) (TEST) [pros],22,0,131250000,0,6.9,5965909
+2020-06-21 0:00:00,PS-Generic-Chemical Free [ATC] [pros],3,0,10280000,0,7.32,3426667
+2020-06-21 0:00:00,PS-Generic-Toxic Free [pros],1,0,3870000,0,14.29,3870000
+2020-06-21 0:00:00,PS-Generic-Non Toxic (ATC) [pros],21,0,166780000,0,7.37,7941905
+2020-06-21 0:00:00,GMA-Retargeting [rt],8,0,1711157,0,23.53,213895
+2020-06-21 0:00:00,PS-Generic-Competitor-Birch Living [pros],6,0,46830000,0,2.62,7805000
+2020-06-20 0:00:00,PS-Generic-Organic Product Reviews [pros],0,0,0,0,0,0
+2020-06-20 0:00:00,Shopping-Brand-USA-ALL-3-LP [brand],11,0,46330000,0,0.33,4211818
+2020-06-20 0:00:00,PS-Brand-Sample-Top Keywords [brand],131,1,969450000,0.76,32.75,7400382
+2020-06-20 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-20 0:00:00,PS-Brand-Sample-Reviews [brand],5,0,47450000,0,8.47,9490000
+2020-06-20 0:00:00,PS-Generic-Toxic Free [pros],1,0,7360000,0,20,7360000
+2020-06-20 0:00:00,PS-Generic-Chemical Free [ATC] [pros],6,0,14290000,0,11.32,2381667
+2020-06-20 0:00:00,PS-Generic-Latex Product [pros],18,0,157690000,0,3.2,8760556
+2020-06-20 0:00:00,PS-Brand-Sample-Compare To [brand],7,0,61160000,0,11.11,8737143
+2020-06-20 0:00:00,PS-Generic-Non Toxic (ATC) [pros],23,0.5,193600000,2.17,7.47,8417391
+2020-06-20 0:00:00,PS-Generic-Green Product [pros],23,0,178970000,0,4.37,7781304
+2020-06-20 0:00:00,PS-Generic-Competitor-Avocado [pros],24,1,209570000,4.17,1.55,8732083
+2020-06-20 0:00:00,PS-Brand-Sample-Product Sizes [brand],7,0.4,50350000,5.71,35,7192857
+2020-06-20 0:00:00,GMA-Custom Intent [pros],1,0,326698,0,6.25,326698
+2020-06-20 0:00:00,PS-Generic-Organic Product [pros],21,0,153290000,0,10.05,7299524
+2020-06-20 0:00:00,PS-Generic-Organic Product (SALE) (TEST) [pros],10,0,53490000,0,3.16,5349000
+2020-06-20 0:00:00,PS-Generic-Latex Product (TEST 2) [pros],4,1,18760000,25,3.74,4690000
+2020-06-20 0:00:00,GMA-Retargeting [rt],9,0,442954,0,23.08,49217
+2020-06-20 0:00:00,Shopping-Generic-USA-MAT-2-MP [pros],22,0,298250000,0,0.14,13556818
+2020-06-20 0:00:00,PS-Generic-Competitor-Birch Living [pros],8,0,62440000,0,2.68,7805000
+2020-06-20 0:00:00,DAC-Retargeting [rt],35,3,33524362,8.57,2.01,957839
+2020-06-20 0:00:00,DAC-Generic-Custom Intent [pros],1475,0,298238172,0,3.89,202195
+2020-06-20 0:00:00,Shopping-Generic-USA-MAT-3-LP [pros],33,0,454710000,0,0.19,13779091
+2020-06-19 0:00:00,DAC-Retargeting [rt],34,0,21684416,0,2.25,637777
+2020-06-19 0:00:00,PS-Brand-Sample-Reviews [brand],2,0.4,19330000,20,2.6,9665000
+2020-06-19 0:00:00,GMA-Custom Intent [pros],3,0,384474,0,5.17,128158
+2020-06-19 0:00:00,PS-Generic-Latex Product (TEST 2) [pros],4,0,25960000,0,3.08,6490000
+2020-06-19 0:00:00,PS-Generic-Competitor-Avocado [pros],27,1,191980000,3.7,1.52,7110370
+2020-06-19 0:00:00,PS-Generic-Chemical Free [ATC] [pros],2,0,4910000,0,3.12,2455000
+2020-06-19 0:00:00,PS-Brand-Sample-Product Sizes [brand],6,0,46110000,0,30,7685000
+2020-06-19 0:00:00,PS-Generic-Organic Hybrid Product [ATC] [pros],0,0,0,0,0,0
+2020-06-19 0:00:00,DAC-Generic ZZZ[pros],0,0,0,0,0,0
+2020-06-19 0:00:00,PS-Generic-Toxic Free [pros],0,0,0,0,0,0
